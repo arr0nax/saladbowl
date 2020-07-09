@@ -10,7 +10,7 @@
         var videoElement = document.getElementById('videoElement');
         var flvPlayer = flvjs.createPlayer({
             type: 'flv',
-            url: 'ws://localhost:8000/live/stream.flv'
+            url: 'http://stream.saladbowl.zone/live/stream.flv'
         });
         flvPlayer.attachMediaElement(videoElement);
         flvPlayer.load();
