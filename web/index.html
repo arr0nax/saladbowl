@@ -1,0 +1,20 @@
+<html>
+<head>
+<script src="https://cdn.bootcss.com/flv.js/1.5.0/flv.min.js"></script>
+</head>
+<body>
+<video id="videoElement"></video>
+</body>
+<script>
+    if (flvjs.isSupported()) {
+        var videoElement = document.getElementById('videoElement');
+        var flvPlayer = flvjs.createPlayer({
+            type: 'flv',
+            url: 'ws://localhost:8000/live/stream.flv'
+        });
+        flvPlayer.attachMediaElement(videoElement);
+        flvPlayer.load();
+        flvPlayer.play();
+    }
+</script> 
+</html>
