@@ -1,20 +1,38 @@
 <html>
 <head>
-<script src="https://cdn.bootcss.com/flv.js/1.5.0/flv.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<style>
+  #videoElement {
+    width: 100%;
+    max-height: 100%;
+  }
+
+  body {
+    padding: 0px;
+    margin: 0px;
+  }
+</style>
+<title>salad bowl dot zone</title>
 </head>
 <body>
 <video id="videoElement" controls></video>
+<a target="_" href="http://www.flock.zone">flock dot zone ;)</a>
 </body>
 <script>
-    if (flvjs.isSupported()) {
-        var videoElement = document.getElementById('videoElement');
-        var flvPlayer = flvjs.createPlayer({
-            type: 'flv',
-            url: 'http://stream.saladbowl.zone/live/stream.flv'
-        });
-        flvPlayer.attachMediaElement(videoElement);
-        flvPlayer.load();
-        flvPlayer.play();
-    }
-</script> 
-</html>
+  var video = document.getElementById('videoElement');
+  var videoSrc = 'http://localhost:8000/live/stream/index.m3u8';
+  if (Hls.isSupported()) {
+    var hls = new Hls();
+    hls.loadSource(videoSrc);
+    hls.attachMedia(video);
+    hls.on(Hls.Events.MANIFEST_PARSED, function() {
+      video.play();
+    });
+  }
+  else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+    video.src = videoSrc;
+    video.addEventListener('loadedmetadata', function() {
+      video.play();
+    });
+  }
+</script>
