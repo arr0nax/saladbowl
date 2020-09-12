@@ -36,8 +36,27 @@
     <script>
       $(function () {
         var socket = io();
+        var username = localStorage.getItem('internet-temple-username');
+        console.log(username);
+        if (!username) {
+          socket.emit("request name")
+        }
+        socket.on("send name", function(name) {
+          if(!username) {
+            username = name;
+            localStorage.setItem('internet-temple-username', username);
+          }
+        })
         $('form').submit(function(){
-          socket.emit('chat message', $('#m').val());
+          const message = $('#m').val();
+          if(message.startsWith('/name')) {
+              var oldUsername = username;
+              username = message.split('/name')[1].substring(0, 30).trim();
+              localStorage.setItem('internet-temple-username', username);
+              socket.emit("chat message", oldUsername + " changed names to " + username + ".");
+            } else {
+              socket.emit('chat message', username + ': ' + message);
+            }
           $('#m').val('');
           return false;
         });
