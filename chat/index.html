@@ -74,6 +74,7 @@
         var flvPlayer = flvjs.createPlayer({
             type: 'flv',
             url: 'http://stream.saladbowl.zone/live/stream.flv'
+            url: 'http://localhost:8000/live/stream.flv'
         });
         flvPlayer.attachMediaElement(videoElement);
         flvPlayer.load();

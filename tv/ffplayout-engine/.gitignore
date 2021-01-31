@@ -1,0 +1,13 @@
+.ropeproject
+**temp
+**playlists
+*.log*
+.DS_Store
+__pycache__/
+*-orig.*
+*.json
+test/
+tests/
+.pytest_cache/
+venv/
+log/
