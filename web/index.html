@@ -19,16 +19,20 @@
 <a target="_" href="http://www.flock.zone">flock dot zone ;)</a>
 </body>
 <script>
-    if (flvjs.isSupported()) {
-        var videoElement = document.getElementById('videoElement');
-        var flvPlayer = flvjs.createPlayer({
-            type: 'flv',
-            //url: 'http://stream.saladbowl.zone/live/stream.flv'
-            url: 'http://localhost:8000/live/stream.flv'
-           // url: 'http://localhost:8000/livestream.flv'
-        });
-        flvPlayer.attachMediaElement(videoElement);
-        flvPlayer.load();
-        flvPlayer.play();
-    }
-</script> 
+  var video = document.getElementById('videoElement');
+  var videoSrc = 'http://localhost:8000/live/stream/index.m3u8';
+  if (Hls.isSupported()) {
+    var hls = new Hls();
+    hls.loadSource(videoSrc);
+    hls.attachMedia(video);
+    hls.on(Hls.Events.MANIFEST_PARSED, function() {
+      video.play();
+    });
+  }
+  else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+    video.src = videoSrc;
+    video.addEventListener('loadedmetadata', function() {
+      video.play();
+    });
+  }
+</script>
