@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "node-media-server": "^2.1.9"
+    "node-media-server": "^2.2.4"
   },
   "devDependencies": {},
   "scripts": {
