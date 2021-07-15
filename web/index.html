@@ -16,6 +16,7 @@
 </head>
 <body>
 <video id="videoElement" controls></video>
+<h3><i>now showing:</i> <span id="title"></span></h3>
 <a target="_" href="http://www.flock.zone">flock dot zone ;)</a>
 </body>
 <script>
@@ -44,5 +45,21 @@
     if (e.keyCode == '70') {video.requestFullscreen()}
     if (e.keyCode == '77') {video.muted = !video.muted}
   })
+
+	function setTitle() {
+		fetch('today.json')
+			.then(data => data.json())
+			.then(schedule => {
+				for (var i=0; i<schedule.length; i++) {
+					if (Date.now()/1000 < parseInt(schedule[i].show_time_utc, 10)) {
+						document.getElementById("title").textContent = (schedule[i-1].name);
+						break;
+					}
+				}
+			}		
+		);
+	}
+setTitle();
+window.setInterval(setTitle, 10000);
  
 </script>
