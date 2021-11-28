@@ -1,0 +1,16 @@
+[30;1m[2021-02-07 22:01:17,575][0m[33;1m[WARNING][0m[38;1m  ffmpeg contains no libfdk-aac! No high quality aac...[0m[0m
+[30;1m[2021-02-07 22:01:17,575][0m[31;1m[ERROR][0m  [38;1m  ffmpeg contains no tpad filter![0m[0m
+[30;1m[2021-02-07 22:01:17,598][0m[32;1m[INFO][0m   [38;1m  Open: [35;1m/home/flock/movies/2021/02/2021-02-07.json[0m[0m
+[30;1m[2021-02-07 22:01:17,665][0m[34;1m[DEBUG][0m  [38;1m  src_cmd: [36;1m"['-i', '/home/flock/movies/high.stakes.poker.s03e06.(20070219).mp4', '-filter_complex', '[0:v]pad=ih*1024/576/sar:ih:(ow-iw)/2:(oh-ih)/2,fps=25,scale=1024:576,setdar=dar=1.778[v];movie=docs/logo.png,loop=loop=-1:size=1:start=0,format=rgba,colorchannelmixer=aa=0.7[l];[v][l]overlay=W-w-12:12:shortest=1[vout1]', '-filter_complex', '[0:a]anull[aout1]', '-map', '[vout1]', '-map', '[aout1]']"[0m[0m[0m
+[30;1m[2021-02-07 22:01:17,665][0m[32;1m[INFO][0m   [38;1m  Play: [35;1m"/home/flock/movies/high.stakes.poker.s03e06.(20070219).mp4"[0m[0m
+[30;1m[2021-02-07 22:03:54,999][0m[32;1m[INFO][0m   [38;1m  Reload config file[0m[0m
+[30;1m[2021-02-07 22:03:55,019][0m[31;1m[ERROR][0m  [38;1m  Broken Pipe![0m[0m
+[30;1m[2021-02-07 22:04:53,355][0m[33;1m[WARNING][0m[38;1m  ffmpeg contains no libfdk-aac! No high quality aac...[0m[0m
+[30;1m[2021-02-07 22:04:53,355][0m[31;1m[ERROR][0m  [38;1m  ffmpeg contains no tpad filter![0m[0m
+[30;1m[2021-02-07 22:04:53,377][0m[32;1m[INFO][0m   [38;1m  Open: [35;1m/home/flock/movies/2021/02/2021-02-07.json[0m[0m
+[30;1m[2021-02-07 22:04:53,445][0m[34;1m[DEBUG][0m  [38;1m  src_cmd: [36;1m"['-i', '/home/flock/movies/high.stakes.poker.s03e06.(20070219).mp4', '-filter_complex', '[0:v]pad=ih*1024/576/sar:ih:(ow-iw)/2:(oh-ih)/2,fps=25,scale=1024:576,setdar=dar=1.778[v];movie=docs/logo.png,loop=loop=-1:size=1:start=0,format=rgba,colorchannelmixer=aa=0.7[l];[v][l]overlay=W-w-12:12:shortest=1[vout1]', '-filter_complex', '[0:a]anull[aout1]', '-map', '[vout1]', '-map', '[aout1]']"[0m[0m[0m
+[30;1m[2021-02-07 22:04:53,446][0m[32;1m[INFO][0m   [38;1m  Play: [35;1m"/home/flock/movies/high.stakes.poker.s03e06.(20070219).mp4"[0m[0m
+[30;1m[2021-02-07 22:13:34,027][0m[33;1m[WARNING][0m[38;1m  Program terminated[0m[0m
+[30;1m[2021-02-07 22:13:34,029][0m[31;1m[ERROR][0m  [38;1m  [0m[encoder] av_interleaved_write_frame(): Immediate exit requested[0m[0m
+[30;1m[2021-02-07 22:13:34,222][0m[31;1m[ERROR][0m  [38;1m  [0m[encoder]     Last message repeated 1 times[0m[0m
+[30;1m[2021-02-07 22:13:34,222][0m[31;1m[ERROR][0m  [38;1m  [0m[encoder] Error writing trailer of rtmp://stream.saladbowl.zone/live/stream: Immediate exit requested[0m[0m

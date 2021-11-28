@@ -82,6 +82,7 @@ storage:
     extensions:
         - ".mp4"
         - ".mkv"
+        - ".avi"
     shuffle: True
 
 text:
@@ -125,7 +126,7 @@ out:
         -b:a 128k
     stream_output: >-
         -flags +global_header
-        -f flv rtmp://localhost:1935/live/stream
+        -f flv rtmp://stream.saladbowl.zone/live/stream
     hls_output: >-
         -flags +cgop
         -f hls
