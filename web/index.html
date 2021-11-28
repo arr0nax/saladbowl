@@ -16,11 +16,13 @@
 </head>
 <body>
 <video id="videoElement" controls></video>
+<h3><i>now showing:</i> <span id="title"></span></h3>
 <a target="_" href="http://www.flock.zone">flock dot zone ;)</a>
 </body>
 <script>
   var video = document.getElementById('videoElement');
-  var videoSrc = 'http://localhost:8000/live/stream/index.m3u8';
+  var videoSrc = 'http://stream.saladbowl.zone/live/stream/index.m3u8';
+//  var videoSrc = 'http://localhost:8002/live/stream/index.m3u8';
   if (Hls.isSupported()) {
     var hls = new Hls();
     hls.loadSource(videoSrc);
@@ -35,4 +37,29 @@
       video.play();
     });
   }
+
+  document.addEventListener('keyup', (e)=> {
+	console.log(e)
+	console.log(video.controls)
+    if (e.keyCode == '32') {video.play()}
+    if (e.keyCode == '70') {video.requestFullscreen()}
+    if (e.keyCode == '77') {video.muted = !video.muted}
+  })
+
+	function setTitle() {
+		fetch('today.json')
+			.then(data => data.json())
+			.then(schedule => {
+				for (var i=0; i<schedule.length; i++) {
+					if (Date.now()/1000 < parseInt(schedule[i].show_time_utc, 10)) {
+						document.getElementById("title").textContent = (schedule[i-1].name);
+						break;
+					}
+				}
+			}		
+		);
+	}
+setTitle();
+window.setInterval(setTitle, 10000);
+ 
 </script>
