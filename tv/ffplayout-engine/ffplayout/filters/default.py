@@ -191,9 +191,10 @@ def extend_audio(probe, duration):
     """
     pad_filter = []
 
-    if probe.audio and 'duration' in probe.audio[0] and \
-            duration > float(probe.audio[0]['duration']) + 0.1:
-        pad_filter.append('apad=whole_dur={}'.format(duration))
+#FIXME: this is crashing when trying to play some movies
+#    if probe.audio and 'duration' in probe.audio[0] and \
+#            duration > float(probe.audio[0]['duration']) + 0.1:
+#        pad_filter.append('apad=whole_dur={}'.format(duration))
 
     return pad_filter
 

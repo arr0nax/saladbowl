@@ -1,0 +1,168 @@
+{
+    "channel": "Channel 1",
+    "date": "2021-11-28",
+    "length": "24:00:00",
+    "program": [
+        {
+            "in": 0,
+            "out": 77.392,
+            "duration": 77.392,
+            "category": "",
+            "source": "/home/flock/movies/whogives-0VVgQmhaNs4.mp4"
+        },
+        {
+            "in": 0,
+            "out": 650.39,
+            "duration": 650.39,
+            "category": "",
+            "source": "/home/flock/movies/Hair.mp4"
+        },
+        {
+            "in": 0,
+            "out": 6811.083333,
+            "duration": 6811.083333,
+            "category": "",
+            "source": "/home/flock/movies/Total.Recall.Mind.Bending.Edition.1990.1080p.BluRay.x264.YIFY.mp4"
+        },
+        {
+            "in": 0,
+            "out": 1221.021,
+            "duration": 1221.021,
+            "category": "",
+            "source": "/home/flock/movies/Vampire Weekend presents Sam Gendel - 2021 (in the space between two pieces of wood)-TdnI_0hW-qU.mp4"
+        },
+        {
+            "in": 0,
+            "out": 6154.23,
+            "duration": 6154.23,
+            "category": "",
+            "source": "/home/flock/movies/Little.Miss.Sunshine.2006.720p.BluRay.x264.YIFY.mp4"
+        },
+        {
+            "in": 0,
+            "out": 179.954644,
+            "duration": 179.954644,
+            "category": "",
+            "source": "/home/flock/movies/Haunting CGI music video _ Repossession Sequence by Oneohtrix Point Never _ Short Film _ Random Acts-kYM2s-IeFXw.mp4"
+        },
+        {
+            "in": 0,
+            "out": 192.8185,
+            "duration": 192.8185,
+            "category": "",
+            "source": "/home/flock/movies/Eric Andre - THUNDERCAT - 'Tron Song' I $5K Music Videos-o9wipZFDoHQ.mp4"
+        },
+        {
+            "in": 0,
+            "out": 50.317633,
+            "duration": 50.317633,
+            "category": "",
+            "source": "/home/flock/movies/g.o.d. drone-RJ1jR4Q_Aio.mp4"
+        },
+        {
+            "in": 0,
+            "out": 672.216667,
+            "duration": 672.216667,
+            "category": "",
+            "source": "/home/flock/movies/Light.mp4"
+        },
+        {
+            "in": 0,
+            "out": 7108.184417,
+            "duration": 7108.184417,
+            "category": "",
+            "source": "/home/flock/movies/Nausicaa of the Valley of the Wind.avi"
+        },
+        {
+            "in": 0,
+            "out": 9806.645842,
+            "duration": 9806.645842,
+            "category": "",
+            "source": "/home/flock/movies/Blade Runner 2049.HDRip.XviD.AC3-EVO.avi"
+        },
+        {
+            "in": 0,
+            "out": 347.068333,
+            "duration": 347.068333,
+            "category": "",
+            "source": "/home/flock/movies/Sticky Drama - Music Video-td-e4i2BL_Q.mp4"
+        },
+        {
+            "in": 0,
+            "out": 725.831667,
+            "duration": 725.831667,
+            "category": "",
+            "source": "/home/flock/movies/Liquid.mp4"
+        },
+        {
+            "in": 0,
+            "out": 671.171667,
+            "duration": 671.171667,
+            "category": "",
+            "source": "/home/flock/movies/Body.mp4"
+        },
+        {
+            "in": 0,
+            "out": 54.799089,
+            "duration": 54.799089,
+            "category": "",
+            "source": "/home/flock/movies/g.o.d. gun-JAAHjhKDLFg.mp4"
+        },
+        {
+            "in": 0,
+            "out": 5600.595,
+            "duration": 5600.595,
+            "category": "",
+            "source": "/home/flock/movies/Hellraiser.1987.mp4"
+        },
+        {
+            "in": 0,
+            "out": 61.231011,
+            "duration": 61.231011,
+            "category": "",
+            "source": "/home/flock/movies/Trailer for Ecco - The Videos of Oneohtrix Point Never-NkqXw22PM4I.mp4"
+        },
+        {
+            "in": 0,
+            "out": 7319.04,
+            "duration": 7319.04,
+            "category": "",
+            "source": "/home/flock/movies/Relatos Salvajes 2014 WEB-DL 1080p x264 AC3 Castellano Y Latino URBiN4HD.mkv.avi"
+        },
+        {
+            "in": 0,
+            "out": 671.845,
+            "duration": 671.845,
+            "category": "",
+            "source": "/home/flock/movies/Food.mp4"
+        },
+        {
+            "in": 0,
+            "out": 4213.32,
+            "duration": 4213.32,
+            "category": "",
+            "source": "/home/flock/movies/Blood Tea And Red String.mkv"
+        },
+        {
+            "in": 0,
+            "out": 6655.765,
+            "duration": 6655.765,
+            "category": "",
+            "source": "/home/flock/movies/Rebel.Without.a.Cause.1955.1080p.BluRay.x264.YIFY.mp4"
+        },
+        {
+            "in": 0,
+            "out": 668.873333,
+            "duration": 668.873333,
+            "category": "",
+            "source": "/home/flock/movies/Dance.mp4"
+        },
+        {
+            "in": 0,
+            "out": 6825.92,
+            "duration": 6825.92,
+            "category": "",
+            "source": "/home/flock/movies/The.Lobster.2015.720p.BRRip.x264.AAC-ETRG.mp4"
+        }
+    ]
+}
