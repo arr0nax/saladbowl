@@ -29,6 +29,23 @@ $(function () {
 				
 				const newDur = luxon.Duration.fromMillis(activeList[index].duration * 1000);
 				start = start.plus(newDur);
+
+				let button = document.createElement('button');
+				button.textContent = 'x';
+				button.addEventListener('click', (e) => {
+					console.log(e);
+					var nodes = Array.prototype.slice.call( document.getElementById('example3Left').children );
+					console.log(nodes);
+					const remove_index = nodes.indexOf(e.target.parentNode);
+					console.log(remove_index);
+					e.target.parentNode.parentNode.removeChild(e.target.parentNode);
+					activeList.splice(remove_index, 1);
+
+					console.log(activeList);
+					
+				})
+				list[i].appendChild(button);
+		
 			}	
 		},
 	});
@@ -62,7 +79,9 @@ function populateLibrary(data) {
 		let el = document.createElement('div');
 		el.classList.add('list-group-item')
 		el.classList.add(`${index}`)
+		el.style.minHeight = `18px`
 		example3Right.appendChild(el);
+
 
 		let title = movie.source.split('/')[4];
 
@@ -75,14 +94,12 @@ function populateLibrary(data) {
 		if (minutes.length < 2) minutes = '0' + minutes;
 		if (seconds.length < 2) seconds = '0' + seconds;
 
+		el.style.height = `${duration / 100}px`
 
+		let text = document.createElement('div');
+		text.innerText = `${hours}:${minutes}:${seconds} - ${title}`;
+		el.appendChild(text);
 
-
-
-		el.innerText = `${hours}:${minutes}:${seconds} - ${title}`;
-
-		
-		
 		
 		
 		

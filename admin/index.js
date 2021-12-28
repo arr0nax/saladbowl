@@ -33,7 +33,9 @@ app.get('/library.json', function(req, res, next) {
 
 app.post('/save-schedule', function(req, res, next) {
 	let current_date = new Date();
-	let date_time = current_date.addDays(10);
+
+	let tomorrow = current_date.getHours() >= 4 ? 1 : 0;
+	let date_time = current_date.addDays(tomorrow);
 	let date = ("0" + date_time.getDate()).slice(-2);
 	let month = ("0" + (date_time.getMonth() + 1)).slice(-2);
 	let year = date_time.getFullYear();
