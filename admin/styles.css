@@ -1,0 +1,31 @@
+body {
+	height: 100vh;
+	margin: 0px;
+}
+
+#body-container {
+	display: flex;
+	flex-direction: row;
+	height: 100%;
+}
+
+.list-group {
+	min-width: 12em;
+	min-height: 12em;
+	margin: 0em 2em;
+	height: 100%;
+	overflow: scroll;
+}
+
+.list-group-item {
+	border: 1px solid grey;
+	
+}
+
+#example3Left {
+	background-color: green;
+}
+
+#example3Right {
+	background-color: yellow;
+}
