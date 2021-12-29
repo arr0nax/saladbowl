@@ -80,6 +80,8 @@ function populateLibrary(data) {
 		el.classList.add('list-group-item')
 		el.classList.add(`${index}`)
 		el.style.minHeight = `18px`
+		el.style.borderColor = 'white';
+		el.style.cursor = 'grab';
 		example3Right.appendChild(el);
 
 
