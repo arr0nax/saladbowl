@@ -13,12 +13,14 @@
     <style>
 	#example3Left, #example3Right { width: 50%; margin: 0px;  }		
 	#example3Right { background-color: darkblue; }
+  #saved {display: inline-block;}
 	body { color: white }
     </style>
   </head>
   <body>
-  <button onclick="saveSchedule()">save schedule</button>
-
+    <div id="buttons">
+      <button id="save" onclick="saveSchedule()">save schedule</button>
+    </div>
   <div id="body-container">
   <div id="example3Left" class="list-group">
   </div>

@@ -118,7 +118,21 @@ function updateTimes() {
 }
 
 function saveSchedule() {
+	
+	let buttons = document.getElementById('buttons');
+	let el = document.createElement('div');
+	el.id = "saved";
+	el.innerText = "loading"
+	buttons.appendChild(el);
+
+	let button = document.getElementById("save");
+	button.disabled = true;
+	
+
+	
 	const url = '/save-schedule';
+
+
 
 	const options = {
 	    method: 'POST',
@@ -130,5 +144,21 @@ function saveSchedule() {
 
 	fetch(url, options)
 	    .then(res => res.json())
-	    .then(res => console.log(res));	
+	    .then(res => {
+			el.innerText = "saved!"
+			button.disabled = false;
+
+			setTimeout(() => {
+				el.remove()
+			}, 3000)
+			console.log(res)
+		})
+		.catch(error => {
+			el.innerText = "something went wrong :("
+			button.disabled = false;
+			
+			setTimeout(() => {
+				el.remove()
+			}, 3000)
+		})
 }
