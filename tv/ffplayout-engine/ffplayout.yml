@@ -7,6 +7,9 @@ general:
         value.
     stop_on_error: True
     stop_threshold: 11
+    # playlist_mode: False
+    playlist_mode: True
+    # REVERT FOR NORMAL PLAYLIST
 
 mail:
     helptext: Send error messages to email address, like missing playlist; unvalid
@@ -29,6 +32,7 @@ logging:
     backup_count: 7
     log_path: "/var/log/ffplayout/"
     log_level: "DEBUG"
+    # ffmpeg_level: "FATAL"
     ffmpeg_level: "ERROR"
 
 processing:
@@ -68,6 +72,8 @@ playlist:
         start, leave day_start blank when playlist should always start at the begin.
         'length' represent the target length from playlist, when is blank real length
         will not consider.
+    #playlist_mode: False
+    # REVERT FOR NORMAL PLAYLIST
     playlist_mode: True
     path: "/playlists"
     day_start: "5:59:25"
@@ -77,7 +83,8 @@ storage:
     helptext: Play ordered or ramdomly files from path. 'filler_clip' is for fill
         the end to reach 24 hours, it will loop when is necessary. 'extensions' search
         only files with this extension. Set 'shuffle' to 'True' to pick files randomly.
-    path: "/mediaStorage"
+    path: "/home/flock/movies"
+    subs: "/home/flock/movies/subs"
     filler_clip: "/mediaStorage/filler/filler.mp4"
     extensions:
         - ".mp4"

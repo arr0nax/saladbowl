@@ -59,20 +59,27 @@ def deinterlace_filter(probe):
     return filter_chain
 
 
-def pad_filter(probe):
+def pad_filter(probe, msg):
     """
     if source and target aspect is different,
     fix it with pillarbox or letterbox
     """
     filter_chain = []
 
+
+    real_aspect = probe.video[0]['aspect']
+
+    if real_aspect == 0:
+        real_aspect = probe.video[0]['width'] / probe.video[0]['height']
+
     if not math.isclose(probe.video[0]['aspect'],
                         _pre.aspect, abs_tol=0.03):
-        if probe.video[0]['aspect'] < _pre.aspect:
+        #if probe.video[0]['aspect'] < _pre.aspect:
+        if real_aspect < _pre.aspect:
             filter_chain.append(
                 'pad=ih*{}/{}/sar:ih:(ow-iw)/2:(oh-ih)/2'.format(_pre.w,
                                                                  _pre.h))
-        elif probe.video[0]['aspect'] > _pre.aspect:
+        elif real_aspect > _pre.aspect:
             filter_chain.append(
                 'pad=iw:iw*{}/{}/sar:(ow-iw)/2:(oh-ih)/2'.format(_pre.h,
                                                                  _pre.w))
@@ -123,8 +130,8 @@ def fade_filter(duration, seek, out, track=''):
         filter_chain.append('{}fade=out:st={}:d=1.0'.format(track,
                                                             out - seek - 1.0))
 
-    return filter_chain
 
+    ieturn filter_chain
 
 def overlay_filter(duration, ad, ad_last, ad_next):
     """
@@ -265,7 +272,7 @@ def custom_filter(probe, type):
     return filters
 
 
-def build_filtergraph(duration, seek, out, ad, ad_last, ad_next, probe, msg):
+def build_filtergraph(duration, seek, out, ad, ad_last, ad_next, probe, subs, msg):
     """
     build final filter graph, with video and audio chain
     """
@@ -279,10 +286,17 @@ def build_filtergraph(duration, seek, out, ad, ad_last, ad_next, probe, msg):
         custom_v_filter = custom_filter(probe, 'v')
         video_chain += text_filter()
         video_chain += deinterlace_filter(probe)
-        video_chain += pad_filter(probe)
+        video_chain += pad_filter(probe, msg)
         video_chain += fps_filter(probe)
         video_chain += scale_filter(probe)
         video_chain += extend_video(probe, duration, out - seek)
+        #video_chain += ["subtitles='/home/flock/testsubs.srt'"]
+
+        if subs:
+            subs_string = 'subtitles=' + subs 
+            video_chain += [subs_string]
+
+
         if custom_v_filter:
             video_chain += custom_v_filter
         video_chain += fade_filter(duration, seek, out)
@@ -319,7 +333,15 @@ def build_filtergraph(duration, seek, out, ad, ad_last, ad_next, probe, msg):
         '-filter_complex', '{}{}{}'.format(','.join(audio_chain),
                                            a_speed, a_split)]
 
+    subs_string = ''
+    subs_filter = ['-filter_complex', subs_string]
+    sub_map = ['-map', '[sout1]']
+
     if probe.video[0]:
-        return video_filter + audio_filter + video_map + audio_map
+        if subs:
+            #return video_filter + audio_filter + subs_filter + video_map + audio_map 
+            return video_filter + audio_filter + video_map + audio_map
+        else:
+            return video_filter + audio_filter + video_map + audio_map
     else:
         return video_filter + video_map + ['-map', '1:a']
