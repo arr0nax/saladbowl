@@ -84,6 +84,7 @@ storage:
         the end to reach 24 hours, it will loop when is necessary. 'extensions' search
         only files with this extension. Set 'shuffle' to 'True' to pick files randomly.
     path: "/home/flock/movies"
+    subs: "/home/flock/movies/subs"
     filler_clip: "/mediaStorage/filler/filler.mp4"
     extensions:
         - ".mp4"

@@ -16,5 +16,7 @@ def filter(probe):
     if _text.fontfile and os.path.isfile(_text.fontfile):
         font = f":fontfile='{_text.fontfile}'"
 
-    if _text.text_from_filename:
+    #if title:
+    if False:
+        print(font)
         return f"drawtext=text='{title}':{_text.style}{font}"
