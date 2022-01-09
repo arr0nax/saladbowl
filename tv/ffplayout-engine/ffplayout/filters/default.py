@@ -131,7 +131,7 @@ def fade_filter(duration, seek, out, track=''):
                                                             out - seek - 1.0))
 
 
-    ieturn filter_chain
+    return filter_chain
 
 def overlay_filter(duration, ad, ad_last, ad_next):
     """
