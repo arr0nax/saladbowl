@@ -83,7 +83,7 @@ app.get('/styles.css', function(req, res, next) {
     res.sendFile(__dirname + '/styles.css');
 });
 
-app.get('/library.json', function(req, res, next) {j
+app.get('/library.json', function(req, res, next) {
     res.sendFile(__dirname + '/library.json');
 });
 
