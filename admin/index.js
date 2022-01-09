@@ -83,7 +83,7 @@ app.get('/styles.css', function(req, res, next) {
     res.sendFile(__dirname + '/styles.css');
 });
 
-app.get('/library.json', function(req, res, next) {
+app.get('/library.json', function(req, res, next) {j
     res.sendFile(__dirname + '/library.json');
 });
 
@@ -99,7 +99,15 @@ app.post('/save-schedule', isLoggedIn, function(req, res, next) {
 	let date = ("0" + date_time.getDate()).slice(-2);
 	let month = ("0" + (date_time.getMonth() + 1)).slice(-2);
 	let year = date_time.getFullYear();
-	fs.writeFile('schedules/' + year + "-" + month + "-" + date + '.json', JSON.stringify(req.body), (err) => {
+
+	const template = {
+		"channel": "Channel 1",
+		"date": "2022-01-08",
+		"length": "24:00:00",
+		"program": req.body
+	}
+
+	fs.writeFile('schedules/' + year + "-" + month + "-" + date + '.json', JSON.stringify(template), (err) => {
 		if (err) return console.log(err);
 	});
 	res.json({success: true})
