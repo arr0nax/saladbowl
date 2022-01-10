@@ -1,12 +1,13 @@
 body {
 	height: 100vh;
 	margin: 0px;
+	background-color: black;
 }
 
 #body-container {
 	display: flex;
 	flex-direction: row;
-	height: 100%;
+	height: calc(100% - 22px);
 }
 
 .list-group {
@@ -27,5 +28,5 @@ body {
 }
 
 #example3Right {
-	background-color: yellow;
+	background-color: darkblue;
 }
