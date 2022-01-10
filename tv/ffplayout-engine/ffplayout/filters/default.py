@@ -292,9 +292,9 @@ def build_filtergraph(duration, seek, out, ad, ad_last, ad_next, probe, subs, ms
         video_chain += extend_video(probe, duration, out - seek)
         #video_chain += ["subtitles='/home/flock/testsubs.srt'"]
 
-        if subs:
-            subs_string = 'subtitles=' + subs 
-            video_chain += [subs_string]
+    #    if subs:
+    #        subs_string = 'subtitles=' + subs 
+    #        video_chain += [subs_string]
 
 
         if custom_v_filter:
@@ -333,15 +333,9 @@ def build_filtergraph(duration, seek, out, ad, ad_last, ad_next, probe, subs, ms
         '-filter_complex', '{}{}{}'.format(','.join(audio_chain),
                                            a_speed, a_split)]
 
-    subs_string = ''
-    subs_filter = ['-filter_complex', subs_string]
-    sub_map = ['-map', '[sout1]']
 
     if probe.video[0]:
-        if subs:
-            #return video_filter + audio_filter + subs_filter + video_map + audio_map 
-            return video_filter + audio_filter + video_map + audio_map
-        else:
-            return video_filter + audio_filter + video_map + audio_map
+        print(video_filter + audio_filter + video_map + audio_map)
+        return video_filter + audio_filter + video_map + audio_map
     else:
         return video_filter + video_map + ['-map', '1:a']

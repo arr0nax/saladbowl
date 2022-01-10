@@ -806,6 +806,13 @@
     },
     {
         "in": 0,
+        "out": 8250.005,
+        "duration": 8250.005,
+        "category": "",
+        "source": "/home/flock/movies/The.Master.2012.1080p.BRrip.x264.GAZ.YIFY.mp4"
+    },
+    {
+        "in": 0,
         "out": 5166.036667,
         "duration": 5166.036667,
         "category": "",

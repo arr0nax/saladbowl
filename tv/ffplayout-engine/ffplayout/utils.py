@@ -532,6 +532,7 @@ class MediaProbe:
         self.format = None
         self.audio = []
         self.video = []
+        self.subs = []
 
         if self.src and self.src.split('://')[0] in self.remote_source:
             self.is_remote = True
@@ -541,6 +542,7 @@ class MediaProbe:
             if not self.src or not os.path.isfile(self.src):
                 self.audio.append(None)
                 self.video.append(None)
+                self.subs.append(None)
 
                 return
 
@@ -554,12 +556,16 @@ class MediaProbe:
                                                                     err))
             self.audio.append(None)
             self.video.append(None)
+            self.subs.append(None)
 
             return
 
         self.format = info['format']
 
         for stream in info['streams']:
+            if stream['codec_type'] == 'subtitle':
+                self.subs.append(stream)
+
             if stream['codec_type'] == 'audio':
                 self.audio.append(stream)
 

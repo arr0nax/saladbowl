@@ -1,105 +1,53 @@
 [
     {
         "in": 0,
-        "out": 8217.942,
-        "duration": 8217.942,
+        "out": 6997.632,
+        "duration": 6997.632,
         "category": "",
-        "source": "/home/flock/movies/Kill.Bill.Vol.2.2004.BluRay.1080p.5.1CH.x264.Ganool.mkv",
-        "show_time": "17:07:20",
-        "show_time_utc": "1641686840",
-        "name": "Kill.Bill.Vol.2.2004.BluRay.1080p.5.1CH.x264.Ganool.mkv"
+        "source": "/home/flock/movies/alien.mkv",
+        "show_time": "19:44:18",
+        "show_time_utc": "1641782658",
+        "name": "alien.mkv"
     },
     {
         "in": 0,
-        "out": 6643.84,
-        "duration": 6643.84,
+        "out": 7108.184417,
+        "duration": 7108.184417,
         "category": "",
-        "source": "/home/flock/movies/dead_ringers.mkv",
-        "show_time": "19:24:18",
-        "show_time_utc": "1641695058",
-        "name": "dead_ringers.mkv"
+        "source": "/home/flock/movies/Nausicaa of the Valley of the Wind.avi",
+        "show_time": "21:40:55",
+        "show_time_utc": "1641789655",
+        "name": "Nausicaa of the Valley of the Wind.avi"
     },
     {
         "in": 0,
-        "out": 5166.036667,
-        "duration": 5166.036667,
+        "out": 7319.04,
+        "duration": 7319.04,
         "category": "",
-        "source": "/home/flock/movies/Koyaanisqatsi.1982.1080p.BRrip.x264.AAC.MVGroup.org.mp4",
-        "show_time": "21:15:02",
-        "show_time_utc": "1641701702",
-        "name": "Koyaanisqatsi.1982.1080p.BRrip.x264.AAC.MVGroup.org.mp4"
+        "source": "/home/flock/movies/Relatos Salvajes 2014 WEB-DL 1080p x264 AC3 Castellano Y Latino URBiN4HD.mkv.avi",
+        "show_time": "23:39:23",
+        "show_time_utc": "1641796763",
+        "name": "Relatos Salvajes 2014 WEB-DL 1080p x264 AC3 Castellano Y Latino URBiN4HD.mkv.avi"
     },
     {
         "in": 0,
-        "out": 5332.85,
-        "duration": 5332.85,
+        "out": 7124.778333,
+        "duration": 7124.778333,
         "category": "",
-        "source": "/home/flock/movies/Videodrome.1983.720p.BluRay.DD1.0.x264-CRiSC.mkv",
-        "subs": "/home/flock/movies/Videodrome.1983.720p.BluRay.DD1.0.x264-CRiSC.mkv:si=0",
-        "show_time": "22:41:08",
-        "show_time_utc": "1641706868",
-        "name": "Videodrome.1983.720p.BluRay.DD1.0.x264-CRiSC.mkv"
+        "source": "/home/flock/movies/The.Life.Aquatic.with.Steve.Zissou.2004.1080p.BluRay.x264.YIFY.mp4",
+        "show_time": "01:41:22",
+        "show_time_utc": "1641804082",
+        "name": "The.Life.Aquatic.with.Steve.Zissou.2004.1080p.BluRay.x264.YIFY.mp4"
     },
     {
         "in": 0,
-        "out": 7393.43,
-        "duration": 7393.43,
+        "out": 9938.41,
+        "duration": 9938.41,
         "category": "",
-        "source": "/home/flock/movies/All.That.Jazz.1979.720p.BluRay.x264-HD4U.mkv",
-        "show_time": "00:10:01",
-        "show_time_utc": "1641712201",
-        "name": "All.That.Jazz.1979.720p.BluRay.x264-HD4U.mkv"
-    },
-    {
-        "in": 0,
-        "out": 5212.373333,
-        "duration": 5212.373333,
-        "category": "",
-        "source": "/home/flock/movies/Charlie.Chaplin.Modern.Times.1936.720p.BrRip.x264.YIFY.mp4",
-        "show_time": "02:13:14",
-        "show_time_utc": "1641719594",
-        "name": "Charlie.Chaplin.Modern.Times.1936.720p.BrRip.x264.YIFY.mp4"
-    },
-    {
-        "in": 0,
-        "out": 9541.566667,
-        "duration": 9541.566667,
-        "category": "",
-        "source": "/home/flock/movies/Eyes.Wide.Shut.1999.720p.BluRay.x264.YIFY.mp4",
-        "show_time": "03:40:06",
-        "show_time_utc": "1641724806",
-        "name": "Eyes.Wide.Shut.1999.720p.BluRay.x264.YIFY.mp4"
-    },
-    {
-        "in": 0,
-        "out": 5912.8,
-        "duration": 5912.8,
-        "category": "",
-        "source": "/home/flock/movies/Raw.2016.SUBBED.1080p.WEB-DL.DD5.1.H264-FGT.mkv",
-        "subs": "/home/flock/movies/Raw.2016.SUBBED.1080p.WEB-DL.DD5.1.H264-FGT.mkv:si=0",
-        "show_time": "06:19:08",
-        "show_time_utc": "1641734348",
-        "name": "Raw.2016.SUBBED.1080p.WEB-DL.DD5.1.H264-FGT.mkv"
-    },
-    {
-        "in": 0,
-        "out": 5145.033,
-        "duration": 5145.033,
-        "category": "",
-        "source": "/home/flock/movies/The.Gate.1987.REMASTERED.BDRip.x264-VoMiT.mkv",
-        "show_time": "07:57:41",
-        "show_time_utc": "1641740261",
-        "name": "The.Gate.1987.REMASTERED.BDRip.x264-VoMiT.mkv"
-    },
-    {
-        "in": 0,
-        "out": 6472.458333,
-        "duration": 6472.458333,
-        "category": "",
-        "source": "/home/flock/movies/Eternal.Sunshine.of.the.Spotless.Mind.2004.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
-        "show_time": "09:23:26",
-        "show_time_utc": "1641745406",
-        "name": "Eternal.Sunshine.of.the.Spotless.Mind.2004.1080p.BrRip.x264.BOKUTOX.YIFY.mp4"
+        "source": "/home/flock/movies/Boyhood.2014.720p.BluRay.x264.YIFY.mp4",
+        "show_time": "03:40:07",
+        "show_time_utc": "1641811207",
+        "name": "Boyhood.2014.720p.BluRay.x264.YIFY.mp4"
     },
     {
         "in": 0,
@@ -107,39 +55,78 @@
         "duration": 5684.011,
         "category": "",
         "source": "/home/flock/movies/Dr Strangelove - Stanley Kubrick 45th Anniversary Edition 1964 Eng Subs 1080p [H264-mp4].mp4",
-        "subs": "/home/flock/movies/Dr Strangelove - Stanley Kubrick 45th Anniversary Edition 1964 Eng Subs 1080p [H264-mp4].mp4:si=0",
-        "show_time": "11:11:18",
-        "show_time_utc": "1641751878",
+        "show_time": "06:25:46",
+        "show_time_utc": "1641821146",
         "name": "Dr Strangelove - Stanley Kubrick 45th Anniversary Edition 1964 Eng Subs 1080p [H264-mp4].mp4"
     },
     {
         "in": 0,
-        "out": 5600.595,
-        "duration": 5600.595,
+        "out": 7942.136667,
+        "duration": 7942.136667,
         "category": "",
-        "source": "/home/flock/movies/Hellraiser.1987.mp4",
-        "show_time": "12:46:02",
-        "show_time_utc": "1641757562",
-        "name": "Hellraiser.1987.mp4"
+        "source": "/home/flock/movies/The.Exorcist.1973.1080p.BrRip.x264.bitloks.YIFY.mp4",
+        "show_time": "08:00:30",
+        "show_time_utc": "1641826830",
+        "name": "The.Exorcist.1973.1080p.BrRip.x264.bitloks.YIFY.mp4"
     },
     {
         "in": 0,
-        "out": 8087.423333,
-        "duration": 8087.423333,
+        "out": 10705.173333,
+        "duration": 10705.173333,
         "category": "",
-        "source": "/home/flock/movies/Star.Wars.Episode.6.Return.of.the.Jedi.1983.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
-        "show_time": "14:19:23",
-        "show_time_utc": "1641763163",
-        "name": "Star.Wars.Episode.6.Return.of.the.Jedi.1983.1080p.BrRip.x264.BOKUTOX.YIFY.mp4"
+        "source": "/home/flock/movies/The.Lord.of.the.Rings.The.Fellowship.of.the.Rings.THEATRICAL.EDITION.2001.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
+        "show_time": "10:12:52",
+        "show_time_utc": "1641834772",
+        "name": "The.Lord.of.the.Rings.The.Fellowship.of.the.Rings.THEATRICAL.EDITION.2001.1080p.BrRip.x264.BOKUTOX.YIFY.mp4"
     },
     {
         "in": 0,
-        "out": 7484.778333,
-        "duration": 7484.778333,
+        "out": 4308.003,
+        "duration": 4308.003,
         "category": "",
-        "source": "/home/flock/movies/Star.Wars.Episode.4.A.New.Hope.1977.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
-        "show_time": "16:34:10",
-        "show_time_utc": "1641771250",
-        "name": "Star.Wars.Episode.4.A.New.Hope.1977.1080p.BrRip.x264.BOKUTOX.YIFY.mp4"
+        "source": "/home/flock/movies/Fantastic.Planet.1973.720p.burnedSubs.mkv",
+        "show_time": "13:11:17",
+        "show_time_utc": "1641845477",
+        "name": "Fantastic.Planet.1973.720p.burnedSubs.mkv"
+    },
+    {
+        "in": 0,
+        "out": 7330.405,
+        "duration": 7330.405,
+        "category": "",
+        "source": "/home/flock/movies/No.Country.For.Old.Men.2007.1080p.BrRip.x264.YIFY.mp4",
+        "show_time": "14:23:05",
+        "show_time_utc": "1641849785",
+        "name": "No.Country.For.Old.Men.2007.1080p.BrRip.x264.YIFY.mp4"
+    },
+    {
+        "in": 0,
+        "out": 6064.074,
+        "duration": 6064.074,
+        "category": "",
+        "source": "/home/flock/movies/Groundhog.Day.1993.REMASTERED.1080p.BluRay.6CH.ShAaNiG.mkv",
+        "show_time": "16:25:15",
+        "show_time_utc": "1641857115",
+        "name": "Groundhog.Day.1993.REMASTERED.1080p.BluRay.6CH.ShAaNiG.mkv"
+    },
+    {
+        "in": 0,
+        "out": 5345.965604,
+        "duration": 5345.965604,
+        "category": "",
+        "source": "/home/flock/movies/True Stories.mp4",
+        "show_time": "18:06:19",
+        "show_time_utc": "1641863179",
+        "name": "True Stories.mp4"
+    },
+    {
+        "in": 0,
+        "out": 6014.403,
+        "duration": 6014.403,
+        "category": "",
+        "source": "/home/flock/movies/The.Farewell.2019.1080p.burnedSubs.mkv",
+        "show_time": "19:35:25",
+        "show_time_utc": "1641868525",
+        "name": "The.Farewell.2019.1080p.burnedSubs.mkv"
     }
 ]

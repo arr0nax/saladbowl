@@ -94,7 +94,7 @@ app.get('/schedule', isLoggedIn, function(req, res){
 app.post('/save-schedule', isLoggedIn, function(req, res, next) {
 	let current_date = new Date();
 
-	let tomorrow = current_date.getHours() >= 4 ? 1 : 0;
+	let tomorrow = current_date.getHours() >= 12 ? 1 : 0;
 	let date_time = current_date.addDays(tomorrow);
 	let date = ("0" + date_time.getDate()).slice(-2);
 	let month = ("0" + (date_time.getMonth() + 1)).slice(-2);
@@ -107,7 +107,7 @@ app.post('/save-schedule', isLoggedIn, function(req, res, next) {
 		"program": req.body
 	}
 
-	fs.writeFile('schedules/' + year + "-" + month + "-" + date + '.json', JSON.stringify(template), (err) => {
+	fs.writeFile('/home/flock/saladbowl/admin/schedules/' + year + "-" + month + "-" + date + '.json', JSON.stringify(template), (err) => {
 		if (err) return console.log(err);
 	});
 	res.json({success: true})

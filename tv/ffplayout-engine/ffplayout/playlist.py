@@ -212,10 +212,10 @@ class GetSourceFromPlaylist:
     def peperation_task(self, index, node):
         # call functions in order to prepare source and filter
         self.src = node["source"]
-        if 'subs' in node.keys():
-            self.subs = node["subs"]
-        else:
-            self.subs = ""
+        #if 'subs' in node.keys():
+        #    self.subs = node["subs"]
+        #else:
+        #    self.subs = ""
 	
         self.probe.load(self.src)
 
