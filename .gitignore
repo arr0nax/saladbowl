@@ -1,3 +1,5 @@
 */node_modules
 srv/media
 .DS_store
+admin/schedules/*
+today.*

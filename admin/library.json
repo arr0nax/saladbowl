@@ -15,6 +15,13 @@
     },
     {
         "in": 0,
+        "out": 6519.88,
+        "duration": 6519.88,
+        "category": "",
+        "source": "/home/flock/movies/Uncle.Boonmee.Who.Can.Recall.His.Past.Lives.2010.720p.BluRay.x264-CiNEFiLE.mkv"
+    },
+    {
+        "in": 0,
         "out": 7223.466667,
         "duration": 7223.466667,
         "category": "",
@@ -22,10 +29,24 @@
     },
     {
         "in": 0,
+        "out": 4974.985,
+        "duration": 4974.985,
+        "category": "",
+        "source": "/home/flock/movies/Ghost_in_the_Shell_1995-1080p_x265_q22_FS94_Joy-.mkv"
+    },
+    {
+        "in": 0,
         "out": 8931.753333,
         "duration": 8931.753333,
         "category": "",
         "source": "/home/flock/movies/2001.A.Space.Odyssey.1968.720p.BrRip.x264.YIFY.mp4"
+    },
+    {
+        "in": 0,
+        "out": 5772.224792,
+        "duration": 5772.224792,
+        "category": "",
+        "source": "/home/flock/movies/Slither_1973_DVDRip_XViD.avi"
     },
     {
         "in": 0,
@@ -47,6 +68,13 @@
         "duration": 6031.081667,
         "category": "",
         "source": "/home/flock/movies/Resident.Evil.2002.1080p.BrRip.x264.YIFY.mp4"
+    },
+    {
+        "in": 0,
+        "out": 8100.266667,
+        "duration": 8100.266667,
+        "category": "",
+        "source": "/home/flock/movies/Speed.Racer.2008.BluRay.1080p.BrRip.x264.BOKUTOX.YIFY.mp4"
     },
     {
         "in": 0,
@@ -78,17 +106,17 @@
     },
     {
         "in": 0,
-        "out": 6904.0972,
-        "duration": 6904.0972,
+        "out": 6154.481667,
+        "duration": 6154.481667,
         "category": "",
-        "source": "/home/flock/movies/Three.Billboards.Outside.Ebbing,Missouri.2017.avi"
+        "source": "/home/flock/movies/Casablanca-Ultimate_Collector_s_Edition-.1942.BRRip.XviD-VLiS.avi"
     },
     {
         "in": 0,
-        "out": 4631.018667,
-        "duration": 4631.018667,
+        "out": 6314.929,
+        "duration": 6314.929,
         "category": "",
-        "source": "/home/flock/movies/Primer - Thriller Sci-Fi 2004 Eng Subs 720p [H264-mp4].mp4"
+        "source": "/home/flock/movies/Haxan.1922._Fantasy-Horror-Multisubs_.720p.x264-Classics.mkv"
     },
     {
         "in": 0,
@@ -113,13 +141,6 @@
     },
     {
         "in": 0,
-        "out": 7319.04,
-        "duration": 7319.04,
-        "category": "",
-        "source": "/home/flock/movies/Relatos Salvajes 2014 WEB-DL 1080p x264 AC3 Castellano Y Latino URBiN4HD.mkv.avi"
-    },
-    {
-        "in": 0,
         "out": 6918.475,
         "duration": 6918.475,
         "category": "",
@@ -127,10 +148,45 @@
     },
     {
         "in": 0,
-        "out": 4974.985,
-        "duration": 4974.985,
+        "out": 1111.57,
+        "duration": 1111.57,
         "category": "",
-        "source": "/home/flock/movies/Ghost in the Shell 1995  (1080p x265 q22 FS94 Joy).mkv"
+        "source": "/home/flock/movies/12.Cops.1922.720p.BluRay.FLAC.HDCLUB-Skazhutin.mkv"
+    },
+    {
+        "in": 0,
+        "out": 5479.342,
+        "duration": 5479.342,
+        "category": "",
+        "source": "/home/flock/movies/Relaxer.2019.HDRip.XviD.AC3-EVO.avi"
+    },
+    {
+        "in": 0,
+        "out": 5706.048,
+        "duration": 5706.048,
+        "category": "",
+        "source": "/home/flock/movies/Punch-Drunk.Love.2002.720p.WEB-DL.DD5.1.H.264-CtrlHD.mkv"
+    },
+    {
+        "in": 0,
+        "out": 7436.543333,
+        "duration": 7436.543333,
+        "category": "",
+        "source": "/home/flock/movies/The.Cook.the.Thief.His.Wife._and_.Her.Lover.1989.1080p.BluRay.x264.YIFY.mp4"
+    },
+    {
+        "in": 0,
+        "out": 6297.333,
+        "duration": 6297.333,
+        "category": "",
+        "source": "/home/flock/movies/Dead.Or.Alive.1999.720p.BluRay.x264-YTS.AM_.mp4"
+    },
+    {
+        "in": 0,
+        "out": 6140.16,
+        "duration": 6140.16,
+        "category": "",
+        "source": "/home/flock/movies/Two.Lane.Blacktop.1971.720p.BluRay.x264-HDCLUB.mkv"
     },
     {
         "in": 0,
@@ -138,20 +194,6 @@
         "duration": 7695.466667,
         "category": "",
         "source": "/home/flock/movies/Basic.Instinct.1992.720p.BrRip.x264.YIFY.mp4"
-    },
-    {
-        "in": 0,
-        "out": 3958.997333,
-        "duration": 3958.997333,
-        "category": "",
-        "source": "/home/flock/movies/Duck Soup - Marx Brothers 1933 Eng Fre Ger Ita Spa Multi-Subs [H264-mp4].mp4"
-    },
-    {
-        "in": 0,
-        "out": 7134.597196,
-        "duration": 7134.597196,
-        "category": "",
-        "source": "/home/flock/movies/Pans.Labyrinth.2006.720p.avi"
     },
     {
         "in": 0,
@@ -190,10 +232,45 @@
     },
     {
         "in": 0,
+        "out": 9806.645842,
+        "duration": 9806.645842,
+        "category": "",
+        "source": "/home/flock/movies/Blade_Runner_2049.HDRip.XviD.AC3-EVO.avi"
+    },
+    {
+        "in": 0,
+        "out": 6050.036,
+        "duration": 6050.036,
+        "category": "",
+        "source": "/home/flock/movies/Ponyo_on_the_Cliff_by_the_Sea_BD_720p_x264_AAC_Sub.mkv"
+    },
+    {
+        "in": 0,
+        "out": 3230.23023,
+        "duration": 3230.23023,
+        "category": "",
+        "source": "/home/flock/movies/Liquid_Sky.1982.cd1.avi"
+    },
+    {
+        "in": 0,
+        "out": 7952.461667,
+        "duration": 7952.461667,
+        "category": "",
+        "source": "/home/flock/movies/V.For.Vendetta.2006.1080p.BrRip.x264.YIFY.mp4"
+    },
+    {
+        "in": 0,
         "out": 7481.493333,
         "duration": 7481.493333,
         "category": "",
         "source": "/home/flock/movies/Thief.1981.1080p.BluRay.x264.YIFY.mp4"
+    },
+    {
+        "in": 0,
+        "out": 6998.783333,
+        "duration": 6998.783333,
+        "category": "",
+        "source": "/home/flock/movies/300.2006.BluRay.1080p.x264.YIFY.mp4"
     },
     {
         "in": 0,
@@ -204,10 +281,17 @@
     },
     {
         "in": 0,
-        "out": 5345.965604,
-        "duration": 5345.965604,
+        "out": 12126.363333,
+        "duration": 12126.363333,
         "category": "",
-        "source": "/home/flock/movies/True Stories.mp4"
+        "source": "/home/flock/movies/The_Godfather_Part_II_1974_The_Coppola_Restoration_1080p_BluRay_x264_AAC-Ozlem.mp4"
+    },
+    {
+        "in": 0,
+        "out": 1147.608,
+        "duration": 1147.608,
+        "category": "",
+        "source": "/home/flock/movies/02.Convict.13.1920.720p.BluRay.FLAC.HDCLUB-Skazhutin.mkv"
     },
     {
         "in": 0,
@@ -232,6 +316,13 @@
     },
     {
         "in": 0,
+        "out": 4990.318644,
+        "duration": 4990.318644,
+        "category": "",
+        "source": "/home/flock/movies/Ghost_in_the_Shell_1995_720p_BRRiP_x264_AAC_Team_Nanban_.mp4"
+    },
+    {
+        "in": 0,
         "out": 6522.539,
         "duration": 6522.539,
         "category": "",
@@ -253,10 +344,17 @@
     },
     {
         "in": 0,
-        "out": 8085.12,
-        "duration": 8085.12,
+        "out": 5015.604,
+        "duration": 5015.604,
         "category": "",
-        "source": "/home/flock/movies/25th Hour 2002.mkv"
+        "source": "/home/flock/movies/Waiting.for.Guffman.1996.REMASTERED.BDRip.x264-FRAGMENT.mkv"
+    },
+    {
+        "in": 0,
+        "out": 1184.27,
+        "duration": 1184.27,
+        "category": "",
+        "source": "/home/flock/movies/07.The._High.Sign_.1921.720p.BluRay.FLAC.HDCLUB-Skazhutin.mkv"
     },
     {
         "in": 0,
@@ -267,10 +365,17 @@
     },
     {
         "in": 0,
-        "out": 7472.328,
-        "duration": 7472.328,
+        "out": 10910.31,
+        "duration": 10910.31,
         "category": "",
-        "source": "/home/flock/movies/Sen.to.Chihiro.no.kamikakushi.2001.576P.BDRip.x264.Dual.Audio-keyfan.mkv.avi"
+        "source": "/home/flock/movies/Magnolia_1_.mkv"
+    },
+    {
+        "in": 0,
+        "out": 8794.528,
+        "duration": 8794.528,
+        "category": "",
+        "source": "/home/flock/movies/Mulholland_Drive_2001.mkv"
     },
     {
         "in": 0,
@@ -295,6 +400,13 @@
     },
     {
         "in": 0,
+        "out": 5805.258,
+        "duration": 5805.258,
+        "category": "",
+        "source": "/home/flock/movies/Coffee.and.Cigarettes.2003.1080p.BluRay.x265-RARBG.mp4"
+    },
+    {
+        "in": 0,
         "out": 7168.426667,
         "duration": 7168.426667,
         "category": "",
@@ -302,31 +414,52 @@
     },
     {
         "in": 0,
-        "out": 3465.465465,
-        "duration": 3465.465465,
+        "out": 1324.115,
+        "duration": 1324.115,
         "category": "",
-        "source": "/home/flock/movies/Liquid Sky.1982.cd2.avi"
+        "source": "/home/flock/movies/18.The.Balloonatic.1923.720p.BluRay.FLAC.HDCLUB-Skazhutin.mkv"
     },
     {
         "in": 0,
-        "out": 5530.001,
-        "duration": 5530.001,
+        "out": 8002.932,
+        "duration": 8002.932,
         "category": "",
-        "source": "/home/flock/movies/Repo Man 1984 720p BluRay x264 BONE.mkv"
-    },
-    {
-        "in": 0,
-        "out": 7301.210583,
-        "duration": 7301.210583,
-        "category": "",
-        "source": "/home/flock/movies/Amelie [Am\u00e9lie Poulain].2001.mkv"
+        "source": "/home/flock/movies/Princess_Mononoke_1997_BD_x264_720p_AAC_Sub.mkv"
     },
     {
         "in": 0,
         "out": 7853.595,
         "duration": 7853.595,
         "category": "",
-        "source": "/home/flock/movies/It's a Wonderful Life 1946 1080p Bluray x264 AAC - Ozlem.mp4"
+        "source": "/home/flock/movies/It_s_a_Wonderful_Life_1946_1080p_Bluray_x264_AAC-Ozlem.mp4"
+    },
+    {
+        "in": 0,
+        "out": 6596.4,
+        "duration": 6596.4,
+        "category": "",
+        "source": "/home/flock/movies/Arrebato.1979.DVDRip.x264.mkv"
+    },
+    {
+        "in": 0,
+        "out": 4992.695,
+        "duration": 4992.695,
+        "category": "",
+        "source": "/home/flock/movies/The_Blob_Criterion_Collection_1958_720p_WEB-DL_x264_AAC-Ozlem.mp4"
+    },
+    {
+        "in": 0,
+        "out": 5355.45,
+        "duration": 5355.45,
+        "category": "",
+        "source": "/home/flock/movies/Office_Space_1999.720p.BrRip.x264.YIFY.mp4"
+    },
+    {
+        "in": 0,
+        "out": 6656.383333,
+        "duration": 6656.383333,
+        "category": "",
+        "source": "/home/flock/movies/Scream_1996.720p.BrRip.x264.YIFY.mp4"
     },
     {
         "in": 0,
@@ -337,17 +470,17 @@
     },
     {
         "in": 0,
-        "out": 12126.363333,
-        "duration": 12126.363333,
-        "category": "",
-        "source": "/home/flock/movies/The Godfather Part II 1974 The Coppola Restoration 1080p BluRay x264 AAC - Ozlem.mp4"
-    },
-    {
-        "in": 0,
         "out": 6433.493333,
         "duration": 6433.493333,
         "category": "",
         "source": "/home/flock/movies/The.Terminator.1984.1080p.BRrip.x264.GAZ.YIFY.mp4"
+    },
+    {
+        "in": 0,
+        "out": 1464.84,
+        "duration": 1464.84,
+        "category": "",
+        "source": "/home/flock/movies/13.My.Wife_s.Relations.1922.720p.BluRay.FLAC.HDCLUB-Skazhutin.mkv"
     },
     {
         "in": 0,
@@ -358,10 +491,10 @@
     },
     {
         "in": 0,
-        "out": 6486.595,
-        "duration": 6486.595,
+        "out": 5345.965604,
+        "duration": 5345.965604,
         "category": "",
-        "source": "/home/flock/movies/Titane.2021.1080p.burnedSubs.mkv"
+        "source": "/home/flock/movies/True_Stories.mp4"
     },
     {
         "in": 0,
@@ -372,13 +505,6 @@
     },
     {
         "in": 0,
-        "out": 7164.073333,
-        "duration": 7164.073333,
-        "category": "",
-        "source": "/home/flock/movies/Citizen Kane (1941) 720p BRRiP x264 AAC [Team Nanban].mp4"
-    },
-    {
-        "in": 0,
         "out": 5456.511667,
         "duration": 5456.511667,
         "category": "",
@@ -386,10 +512,31 @@
     },
     {
         "in": 0,
+        "out": 6768.08,
+        "duration": 6768.08,
+        "category": "",
+        "source": "/home/flock/movies/Blade_Runner_The_Final_Cut.avi"
+    },
+    {
+        "in": 0,
         "out": 7610.303333,
         "duration": 7610.303333,
         "category": "",
         "source": "/home/flock/movies/Star.Trek.2009.1080p.BrRip.x264.YIFY.mp4"
+    },
+    {
+        "in": 0,
+        "out": 5684.011,
+        "duration": 5684.011,
+        "category": "",
+        "source": "/home/flock/movies/Dr_Strangelove-Stanley_Kubrick_45th_Anniversary_Edition_1964_Eng_Subs_1080p-H264-mp4-.mp4"
+    },
+    {
+        "in": 0,
+        "out": 7998.442399,
+        "duration": 7998.442399,
+        "category": "",
+        "source": "/home/flock/movies/The.Ballad.of.Buster.Scruggs.2018.HDRip.XviD.AC3-EVO-EtMovies-.avi"
     },
     {
         "in": 0,
@@ -414,38 +561,10 @@
     },
     {
         "in": 0,
-        "out": 6768.08,
-        "duration": 6768.08,
-        "category": "",
-        "source": "/home/flock/movies/Blade Runner The Final Cut.avi"
-    },
-    {
-        "in": 0,
-        "out": 8429.755,
-        "duration": 8429.755,
-        "category": "",
-        "source": "/home/flock/movies/Soy.Cuba.burnedSubs.mkv"
-    },
-    {
-        "in": 0,
-        "out": 7108.184417,
-        "duration": 7108.184417,
-        "category": "",
-        "source": "/home/flock/movies/Nausicaa of the Valley of the Wind.avi"
-    },
-    {
-        "in": 0,
         "out": 5212.373333,
         "duration": 5212.373333,
         "category": "",
         "source": "/home/flock/movies/Charlie.Chaplin.Modern.Times.1936.720p.BrRip.x264.YIFY.mp4"
-    },
-    {
-        "in": 0,
-        "out": 8794.528,
-        "duration": 8794.528,
-        "category": "",
-        "source": "/home/flock/movies/Mulholland Drive 2001.mkv"
     },
     {
         "in": 0,
@@ -456,6 +575,13 @@
     },
     {
         "in": 0,
+        "out": 8300.778333,
+        "duration": 8300.778333,
+        "category": "",
+        "source": "/home/flock/movies/Master.and.Commander.The.Far.Side.of.the.World.2003.1080p.BrRip.x264.YIFY.mp4"
+    },
+    {
+        "in": 0,
         "out": 10257.28,
         "duration": 10257.28,
         "category": "",
@@ -463,10 +589,24 @@
     },
     {
         "in": 0,
-        "out": 8234.24,
-        "duration": 8234.24,
+        "out": 5420.521667,
+        "duration": 5420.521667,
         "category": "",
-        "source": "/home/flock/movies/Close Encounters of the Third Kind 1977 1080p BRRip  x264 6Ch-AAC - ViZNU [P2PDL].mkv"
+        "source": "/home/flock/movies/Cube.1997.1080p.BrRip.x264.bitloks.YIFY.mp4"
+    },
+    {
+        "in": 0,
+        "out": 7755.966667,
+        "duration": 7755.966667,
+        "category": "",
+        "source": "/home/flock/movies/The.Matrix.Revolutions.2003.1080p.BrRip.x264.YIFY.mp4"
+    },
+    {
+        "in": 0,
+        "out": 5510.816,
+        "duration": 5510.816,
+        "category": "",
+        "source": "/home/flock/movies/Pig.2021.1080p.WEBRip.x264.AAC5.1-YTS.MX_.mp4"
     },
     {
         "in": 0,
@@ -477,13 +617,6 @@
     },
     {
         "in": 0,
-        "out": 6656.383333,
-        "duration": 6656.383333,
-        "category": "",
-        "source": "/home/flock/movies/Scream 1996.720p.BrRip.x264.YIFY.mp4"
-    },
-    {
-        "in": 0,
         "out": 5278.44,
         "duration": 5278.44,
         "category": "",
@@ -491,17 +624,31 @@
     },
     {
         "in": 0,
-        "out": 7660.523,
-        "duration": 7660.523,
+        "out": 5232.446667,
+        "duration": 5232.446667,
         "category": "",
-        "source": "/home/flock/movies/Hereditary.2018.1080p.WEBRip.x264-[YTS.AM].mp4"
+        "source": "/home/flock/movies/Gun.Crazy.1950.1080p.BluRay.x264.YIFY.mp4"
     },
     {
         "in": 0,
-        "out": 6314.932,
-        "duration": 6314.932,
+        "out": 6759.68,
+        "duration": 6759.68,
         "category": "",
-        "source": "/home/flock/movies/Haxan.1922.720p.x264-Classics.burnedSubs.mkv"
+        "source": "/home/flock/movies/Baby_Driver_2017_1080p_WEB-DL_DD5.1_X264-CPG.mkv"
+    },
+    {
+        "in": 0,
+        "out": 7164.073333,
+        "duration": 7164.073333,
+        "category": "",
+        "source": "/home/flock/movies/Citizen_Kane-1941-720p_BRRiP_x264_AAC-Team_Nanban-.mp4"
+    },
+    {
+        "in": 0,
+        "out": 5310.263292,
+        "duration": 5310.263292,
+        "category": "",
+        "source": "/home/flock/movies/My_Neighbor_Totoro.avi"
     },
     {
         "in": 0,
@@ -509,20 +656,6 @@
         "duration": 8087.423333,
         "category": "",
         "source": "/home/flock/movies/Star.Wars.Episode.6.Return.of.the.Jedi.1983.1080p.BrRip.x264.BOKUTOX.YIFY.mp4"
-    },
-    {
-        "in": 0,
-        "out": 7873.944,
-        "duration": 7873.944,
-        "category": "",
-        "source": "/home/flock/movies/Benedetta.2021.1080p.burnedSubs.mkv"
-    },
-    {
-        "in": 0,
-        "out": 9335.493,
-        "duration": 9335.493,
-        "category": "",
-        "source": "/home/flock/movies/Boogie Nights 1997 1080p BluRay x264 AAC - Ozlem.mkv"
     },
     {
         "in": 0,
@@ -540,17 +673,10 @@
     },
     {
         "in": 0,
-        "out": 6289.835,
-        "duration": 6289.835,
+        "out": 5436.812,
+        "duration": 5436.812,
         "category": "",
-        "source": "/home/flock/movies/Kajillionaire.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4"
-    },
-    {
-        "in": 0,
-        "out": 5350.216884,
-        "duration": 5350.216884,
-        "category": "",
-        "source": "/home/flock/movies/Beau.Travail.subs.avi"
+        "source": "/home/flock/movies/Touki_Bouki.1973.720p.BluRay.AVC-mfcorrea.mkv"
     },
     {
         "in": 0,
@@ -565,6 +691,13 @@
         "duration": 5920.583333,
         "category": "",
         "source": "/home/flock/movies/Songs.From.The.Second.Floor.720p.mkv.avi"
+    },
+    {
+        "in": 0,
+        "out": 7134.597196,
+        "duration": 7134.597196,
+        "category": "",
+        "source": "/home/flock/movies/Pan_s_Labyrinth_2006_720p_BRRip_XviD_AC3-CODY.avi"
     },
     {
         "in": 0,
@@ -603,10 +736,17 @@
     },
     {
         "in": 0,
-        "out": 5637.340025,
-        "duration": 5637.340025,
+        "out": 1034.83,
+        "duration": 1034.83,
         "category": "",
-        "source": "/home/flock/movies/Sonatine 1993 DVDRIP H264 AAC-TiLTSWiTCH(Kingdom-Release).mkv.avi"
+        "source": "/home/flock/movies/15.The.Frozen.North.1922.720p.BluRay.FLAC.HDCLUB-Skazhutin.mkv"
+    },
+    {
+        "in": 0,
+        "out": 7590.293,
+        "duration": 7590.293,
+        "category": "",
+        "source": "/home/flock/movies/Kaze_Tachinu_The_Wind_Rises_2013_BD_x264_720p_AAC_Sub_Ara.Jap.Eng.Fre_A64EE42C_.mkv"
     },
     {
         "in": 0,
@@ -624,17 +764,17 @@
     },
     {
         "in": 0,
-        "out": 5767.428,
-        "duration": 5767.428,
-        "category": "",
-        "source": "/home/flock/movies/Rumble Fish (1983) 720p BRrip_sujaidr (pimprg).mkv"
-    },
-    {
-        "in": 0,
         "out": 10765.823333,
         "duration": 10765.823333,
         "category": "",
         "source": "/home/flock/movies/The.Lord.of.the.Rings.The.Two.Towers.THEATRICAL.EDITION.2002.1080p.BrRip.x264.BOKUTOX.YIFY.mp4"
+    },
+    {
+        "in": 0,
+        "out": 6289.835,
+        "duration": 6289.835,
+        "category": "",
+        "source": "/home/flock/movies/Kajillionaire.2020.1080p.WEBRip.x264.AAC5.1-YTS.MX-.mp4"
     },
     {
         "in": 0,
@@ -645,10 +785,10 @@
     },
     {
         "in": 0,
-        "out": 5684.011,
-        "duration": 5684.011,
+        "out": 8825.909,
+        "duration": 8825.909,
         "category": "",
-        "source": "/home/flock/movies/Dr Strangelove - Stanley Kubrick 45th Anniversary Edition 1964 Eng Subs 1080p [H264-mp4].mp4"
+        "source": "/home/flock/movies/Midsommar.2019.720p.BluRay.x264-YTS.LT-.mp4"
     },
     {
         "in": 0,
@@ -659,10 +799,31 @@
     },
     {
         "in": 0,
-        "out": 6014.403,
-        "duration": 6014.403,
+        "out": 7307.462,
+        "duration": 7307.462,
         "category": "",
-        "source": "/home/flock/movies/The.Farewell.2019.1080p.burnedSubs.mkv"
+        "source": "/home/flock/movies/Alita.Battle.Angel.2019.1080p.WEBRip.x264-YTS.LT-.mp4"
+    },
+    {
+        "in": 0,
+        "out": 7807.35,
+        "duration": 7807.35,
+        "category": "",
+        "source": "/home/flock/movies/Phantom.Thread.2017.1080p.BluRay.H264.AAC-RARBG.mp4"
+    },
+    {
+        "in": 0,
+        "out": 5461.098333,
+        "duration": 5461.098333,
+        "category": "",
+        "source": "/home/flock/movies/Razorback.1984.720p.BluRay.x264.YIFY.mp4"
+    },
+    {
+        "in": 0,
+        "out": 4631.018667,
+        "duration": 4631.018667,
+        "category": "",
+        "source": "/home/flock/movies/Primer-Thriller_Sci-Fi_2004_Eng_Subs_720p-H264-mp4-.mp4"
     },
     {
         "in": 0,
@@ -673,13 +834,6 @@
     },
     {
         "in": 0,
-        "out": 8825.909,
-        "duration": 8825.909,
-        "category": "",
-        "source": "/home/flock/movies/Midsommar.2019.720p.BluRay.x264-[YTS.LT].mp4"
-    },
-    {
-        "in": 0,
         "out": 4919.31,
         "duration": 4919.31,
         "category": "",
@@ -687,24 +841,10 @@
     },
     {
         "in": 0,
-        "out": 5028.928,
-        "duration": 5028.928,
-        "category": "",
-        "source": "/home/flock/movies/Phase IV - Cult Classic Horror 1974 Eng Subs 720p [H264-mp4].mp4"
-    },
-    {
-        "in": 0,
         "out": 5597.541667,
         "duration": 5597.541667,
         "category": "",
         "source": "/home/flock/movies/You.The.Living.2007.mkv.avi"
-    },
-    {
-        "in": 0,
-        "out": 4308.003,
-        "duration": 4308.003,
-        "category": "",
-        "source": "/home/flock/movies/Fantastic.Planet.1973.720p.burnedSubs.mkv"
     },
     {
         "in": 0,
@@ -729,6 +869,13 @@
     },
     {
         "in": 0,
+        "out": 5773.360145,
+        "duration": 5773.360145,
+        "category": "",
+        "source": "/home/flock/movies/The_Seventh_Seal-Det_Sjunde_Inseglet-.1957.BRRip.XviD.AC3-VLiS.avi"
+    },
+    {
+        "in": 0,
         "out": 6064.074,
         "duration": 6064.074,
         "category": "",
@@ -736,10 +883,10 @@
     },
     {
         "in": 0,
-        "out": 5773.405,
-        "duration": 5773.405,
+        "out": 8295.508333,
+        "duration": 8295.508333,
         "category": "",
-        "source": "/home/flock/movies/The.Seventh.Seal.burnedSubs.mkv"
+        "source": "/home/flock/movies/The.Matrix.Reloaded.2003.1080p.BrRip.x264.YIFY.mp4"
     },
     {
         "in": 0,
@@ -750,10 +897,38 @@
     },
     {
         "in": 0,
+        "out": 6200.244,
+        "duration": 6200.244,
+        "category": "",
+        "source": "/home/flock/movies/Dellamorte_Dellamore_Cemetery_Man_1994_720p_multi_HighCode.mkv"
+    },
+    {
+        "in": 0,
+        "out": 5342.592,
+        "duration": 5342.592,
+        "category": "",
+        "source": "/home/flock/movies/Lady_Snowblood_2_Love_Song_of_Vengeance_1974_720p.BRrip.Sujaidr.mkv"
+    },
+    {
+        "in": 0,
+        "out": 7660.523,
+        "duration": 7660.523,
+        "category": "",
+        "source": "/home/flock/movies/Hereditary.2018.1080p.WEBRip.x264-YTS.AM-.mp4"
+    },
+    {
+        "in": 0,
         "out": 6858.935417,
         "duration": 6858.935417,
         "category": "",
         "source": "/home/flock/movies/REAR_WINDOW.avi"
+    },
+    {
+        "in": 0,
+        "out": 7169.195,
+        "duration": 7169.195,
+        "category": "",
+        "source": "/home/flock/movies/The.Favourite.2018.1080p.BRRip.x264.MkvCage.ws.mkv"
     },
     {
         "in": 0,
@@ -764,6 +939,13 @@
     },
     {
         "in": 0,
+        "out": 4795.2,
+        "duration": 4795.2,
+        "category": "",
+        "source": "/home/flock/movies/Sauna.2008.x264.AC3-WAF.mkv"
+    },
+    {
+        "in": 0,
         "out": 6351.53,
         "duration": 6351.53,
         "category": "",
@@ -771,17 +953,17 @@
     },
     {
         "in": 0,
-        "out": 4213.32,
-        "duration": 4213.32,
+        "out": 7812.386667,
+        "duration": 7812.386667,
         "category": "",
-        "source": "/home/flock/movies/Blood Tea And Red String.mkv"
+        "source": "/home/flock/movies/Viy_2014_720p_BluRay_x264_AAC-Ozlem.mp4"
     },
     {
         "in": 0,
-        "out": 6759.68,
-        "duration": 6759.68,
+        "out": 7204.343,
+        "duration": 7204.343,
         "category": "",
-        "source": "/home/flock/movies/Baby Driver 2017 1080p WEB-DL DD5.1 X264-CPG.mkv"
+        "source": "/home/flock/movies/Luz.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv"
     },
     {
         "in": 0,
@@ -792,6 +974,41 @@
     },
     {
         "in": 0,
+        "out": 5637.340025,
+        "duration": 5637.340025,
+        "category": "",
+        "source": "/home/flock/movies/Sonatine_1993_DVDRIP_H264_AAC-TiLTSWiTCH-Kingdom-Release-.mkv.avi"
+    },
+    {
+        "in": 0,
+        "out": 5700.245,
+        "duration": 5700.245,
+        "category": "",
+        "source": "/home/flock/movies/The.Blob.1988.1080p.BluRay.x264.YIFY.mp4"
+    },
+    {
+        "in": 0,
+        "out": 12424.703933,
+        "duration": 12424.703933,
+        "category": "",
+        "source": "/home/flock/movies/Seven_Samurai_1954_720p_BRRiP_x264_AAC_Team_Nanban_.mp4"
+    },
+    {
+        "in": 0,
+        "out": 6023.663,
+        "duration": 6023.663,
+        "category": "",
+        "source": "/home/flock/movies/The_Texas_Chainsaw_Massacre_2_UNCUT_1986_DVDRip_MP4-roflcopter2110.mp4"
+    },
+    {
+        "in": 0,
+        "out": 7301.210583,
+        "duration": 7301.210583,
+        "category": "",
+        "source": "/home/flock/movies/Amelie-Amelie_Poulain-.2001.mkv"
+    },
+    {
+        "in": 0,
         "out": 7742.846667,
         "duration": 7742.846667,
         "category": "",
@@ -799,10 +1016,31 @@
     },
     {
         "in": 0,
-        "out": 7998.442399,
-        "duration": 7998.442399,
+        "out": 1398.61,
+        "duration": 1398.61,
         "category": "",
-        "source": "/home/flock/movies/The.Ballad.of.Buster.Scruggs.2018.HDRip.XviD.AC3-EVO[EtMovies].avi"
+        "source": "/home/flock/movies/17.Day.Dreams.1922.720p.BluRay.FLAC.HDCLUB-Skazhutin.mkv"
+    },
+    {
+        "in": 0,
+        "out": 5815.072,
+        "duration": 5815.072,
+        "category": "",
+        "source": "/home/flock/movies/Lady_Snowblood_1973_720p.BRrip.Sujaidr.mkv"
+    },
+    {
+        "in": 0,
+        "out": 7252.276,
+        "duration": 7252.276,
+        "category": "",
+        "source": "/home/flock/movies/Dawson.City.Frozen.Time.2016.DVDRip.x264-RedBlade-EtMovies-.mkv"
+    },
+    {
+        "in": 0,
+        "out": 7022.08,
+        "duration": 7022.08,
+        "category": "",
+        "source": "/home/flock/movies/Hidan_Nausicaa_of_the_Valley_of_the_Wind_BD_x264_720p_AAC_Sub_0AC87D1B_.mkv"
     },
     {
         "in": 0,
@@ -820,6 +1058,13 @@
     },
     {
         "in": 0,
+        "out": 1091.51,
+        "duration": 1091.51,
+        "category": "",
+        "source": "/home/flock/movies/03.The.Scarecrow.1920.720p.BluRay.FLAC.HDCLUB-Skazhutin.mkv"
+    },
+    {
+        "in": 0,
         "out": 9505.746,
         "duration": 9505.746,
         "category": "",
@@ -831,6 +1076,20 @@
         "duration": 7341.459,
         "category": "",
         "source": "/home/flock/movies/Star.Trek.Beyond.2016.1080p.WEB-DL.x264.AC3-JYK.mkv"
+    },
+    {
+        "in": 0,
+        "out": 5049.4,
+        "duration": 5049.4,
+        "category": "",
+        "source": "/home/flock/movies/Toky0_F1st.avi"
+    },
+    {
+        "in": 0,
+        "out": 1241.41,
+        "duration": 1241.41,
+        "category": "",
+        "source": "/home/flock/movies/11.The.Paleface.1922.720p.BluRay.FLAC.HDCLUB-Skazhutin.mkv"
     },
     {
         "in": 0,
@@ -848,10 +1107,24 @@
     },
     {
         "in": 0,
-        "out": 6808.76,
-        "duration": 6808.76,
+        "out": 4308.0,
+        "duration": 4308.0,
         "category": "",
-        "source": "/home/flock/movies/The Holy Mountain_Alexandro Jodorowsky_1973.mkv"
+        "source": "/home/flock/movies/Fantastic.Planet.1973.720p.BRRip.x0r.mkv"
+    },
+    {
+        "in": 0,
+        "out": 5710.036667,
+        "duration": 5710.036667,
+        "category": "",
+        "source": "/home/flock/movies/The.Swimmer.1968.1080p.BluRay.x264.YIFY.mp4"
+    },
+    {
+        "in": 0,
+        "out": 1487.786,
+        "duration": 1487.786,
+        "category": "",
+        "source": "/home/flock/movies/01.One.Week.1920.720p.BluRay.FLAC.HDCLUB-Skazhutin.mkv"
     },
     {
         "in": 0,
@@ -883,13 +1156,6 @@
     },
     {
         "in": 0,
-        "out": 4553.376,
-        "duration": 4553.376,
-        "category": "",
-        "source": "/home/flock/movies/Daisies.1966.1080p.burnedSubs.avi"
-    },
-    {
-        "in": 0,
         "out": 5894.698333,
         "duration": 5894.698333,
         "category": "",
@@ -904,10 +1170,24 @@
     },
     {
         "in": 0,
-        "out": 7134.642,
-        "duration": 7134.642,
+        "out": 7475.03,
+        "duration": 7475.03,
         "category": "",
-        "source": "/home/flock/movies/Pans.Labyrinth.2006.720p.burnedSubs.mkv"
+        "source": "/home/flock/movies/Spirited_Away_BD_720p_x264_AAC_Sub.mkv"
+    },
+    {
+        "in": 0,
+        "out": 5936.797533,
+        "duration": 5936.797533,
+        "category": "",
+        "source": "/home/flock/movies/The_Carrier.avi"
+    },
+    {
+        "in": 0,
+        "out": 6025.13,
+        "duration": 6025.13,
+        "category": "",
+        "source": "/home/flock/movies/A.Scanner.Darkly.2006.1080p.BluRay.x264.YIFY.mp4"
     },
     {
         "in": 0,
@@ -918,17 +1198,31 @@
     },
     {
         "in": 0,
-        "out": 7252.276,
-        "duration": 7252.276,
+        "out": 3465.465465,
+        "duration": 3465.465465,
         "category": "",
-        "source": "/home/flock/movies/Dawson.City.Frozen.Time.2016.DVDRip.x264-RedBlade[EtMovies].mkv"
+        "source": "/home/flock/movies/Liquid_Sky.1982.cd2.avi"
     },
     {
         "in": 0,
-        "out": 5355.45,
-        "duration": 5355.45,
+        "out": 3958.997333,
+        "duration": 3958.997333,
         "category": "",
-        "source": "/home/flock/movies/Office Space 1999.720p.BrRip.x264.YIFY.mp4"
+        "source": "/home/flock/movies/Duck_Soup-Marx_Brothers_1933_Eng_Fre_Ger_Ita_Spa_Multi-Subs-H264-mp4-.mp4"
+    },
+    {
+        "in": 0,
+        "out": 1372.625,
+        "duration": 1372.625,
+        "category": "",
+        "source": "/home/flock/movies/09.The.Play.House.1921.720p.BluRay.FLAC.HDCLUB-Skazhutin.mkv"
+    },
+    {
+        "in": 0,
+        "out": 8085.12,
+        "duration": 8085.12,
+        "category": "",
+        "source": "/home/flock/movies/25th_Hour_2002.mkv"
     },
     {
         "in": 0,
@@ -939,24 +1233,10 @@
     },
     {
         "in": 0,
-        "out": 6154.481667,
-        "duration": 6154.481667,
-        "category": "",
-        "source": "/home/flock/movies/Casablanca [Ultimate Collector's Edition].1942.BRRip.XviD-VLiS.avi"
-    },
-    {
-        "in": 0,
         "out": 5752.8,
         "duration": 5752.8,
         "category": "",
         "source": "/home/flock/movies/Night.Of.The.Living.Dead.1968.720p.BRRip.x264-x0r.mkv"
-    },
-    {
-        "in": 0,
-        "out": 9806.645842,
-        "duration": 9806.645842,
-        "category": "",
-        "source": "/home/flock/movies/Blade Runner 2049.HDRip.XviD.AC3-EVO.avi"
     },
     {
         "in": 0,
@@ -974,6 +1254,27 @@
     },
     {
         "in": 0,
+        "out": 4565.68,
+        "duration": 4565.68,
+        "category": "",
+        "source": "/home/flock/movies/Daisies.1966._Experimental.Czech_.1080p.BRRip.x264-Classics.mkv"
+    },
+    {
+        "in": 0,
+        "out": 4223.957,
+        "duration": 4223.957,
+        "category": "",
+        "source": "/home/flock/movies/The.Road.Movie.2016.1080p.BluRay.x264-YTS.AM-.mp4"
+    },
+    {
+        "in": 0,
+        "out": 5990.996667,
+        "duration": 5990.996667,
+        "category": "",
+        "source": "/home/flock/movies/The_Descent-2005-Untated_1080p_BluRay_AAC_x264-tomcat12-ETRG-.mp4"
+    },
+    {
+        "in": 0,
         "out": 5912.8,
         "duration": 5912.8,
         "category": "",
@@ -981,10 +1282,17 @@
     },
     {
         "in": 0,
-        "out": 5310.263292,
-        "duration": 5310.263292,
+        "out": 8234.24,
+        "duration": 8234.24,
         "category": "",
-        "source": "/home/flock/movies/My Neighbor Totoro.avi"
+        "source": "/home/flock/movies/Close_Encounters_of_the_Third_Kind_1977_1080p_BRRip_x264_6Ch-AAC-ViZNU-P2PDL-.mkv"
+    },
+    {
+        "in": 0,
+        "out": 7873.941,
+        "duration": 7873.941,
+        "category": "",
+        "source": "/home/flock/movies/Benedetta_2021_French_1080p_BluRay_HEVC_x265_5.1_BONE.mkv"
     },
     {
         "in": 0,
@@ -1002,10 +1310,17 @@
     },
     {
         "in": 0,
-        "out": 3230.23023,
-        "duration": 3230.23023,
+        "out": 5583.68,
+        "duration": 5583.68,
         "category": "",
-        "source": "/home/flock/movies/Liquid Sky.1982.cd1.avi"
+        "source": "/home/flock/movies/Blood_Simple-Director_s_Cut-.1984.DVDRip.XviD-VLiS.avi"
+    },
+    {
+        "in": 0,
+        "out": 5343.38,
+        "duration": 5343.38,
+        "category": "",
+        "source": "/home/flock/movies/Dead.Or.Alive.Final.2002.720p.BluRay.x264.AAC-YTS.MX_.mp4"
     },
     {
         "in": 0,
@@ -1016,6 +1331,27 @@
     },
     {
         "in": 0,
+        "out": 6904.0972,
+        "duration": 6904.0972,
+        "category": "",
+        "source": "/home/flock/movies/Three.Billboards.Outside.Ebbing.Missouri.2017.avi"
+    },
+    {
+        "in": 0,
+        "out": 7473.545,
+        "duration": 7473.545,
+        "category": "",
+        "source": "/home/flock/movies/Laputa_Castle_in_the_Sky_BD_x264_720p_AAC_Sub.mkv"
+    },
+    {
+        "in": 0,
+        "out": 5122.96,
+        "duration": 5122.96,
+        "category": "",
+        "source": "/home/flock/movies/Blood.and.Black.Lace.1964.DVDRip.x264-CM.mkv"
+    },
+    {
+        "in": 0,
         "out": 6595.306667,
         "duration": 6595.306667,
         "category": "",
@@ -1023,10 +1359,59 @@
     },
     {
         "in": 0,
-        "out": 5583.68,
-        "duration": 5583.68,
+        "out": 7319.04,
+        "duration": 7319.04,
         "category": "",
-        "source": "/home/flock/movies/Blood Simple [Director's Cut].1984.DVDRip.XviD-VLiS.avi"
+        "source": "/home/flock/movies/Relatos_Salvajes_2014_WEB-DL_1080p_x264_AC3_Castellano_Y_Latino_URBiN4HD.mkv.avi"
+    },
+    {
+        "in": 0,
+        "out": 5028.928,
+        "duration": 5028.928,
+        "category": "",
+        "source": "/home/flock/movies/Phase_IV-Cult_Classic_Horror_1974_Eng_Subs_720p-H264-mp4-.mp4"
+    },
+    {
+        "in": 0,
+        "out": 5859.04,
+        "duration": 5859.04,
+        "category": "",
+        "source": "/home/flock/movies/Hard_Eight_Sydney_.1996.DVDRip.x264-VLiS.mkv"
+    },
+    {
+        "in": 0,
+        "out": 8924.521667,
+        "duration": 8924.521667,
+        "category": "",
+        "source": "/home/flock/movies/Inherent.Vice.2014.1080p.BluRay.x264.YIFY.mp4"
+    },
+    {
+        "in": 0,
+        "out": 5931.733333,
+        "duration": 5931.733333,
+        "category": "",
+        "source": "/home/flock/movies/Drag.Me.To.Hell.2009.1080p.BrRip.x264.YIFY.mp4"
+    },
+    {
+        "in": 0,
+        "out": 8429.712958,
+        "duration": 8429.712958,
+        "category": "",
+        "source": "/home/flock/movies/Soy_Cuba.avi"
+    },
+    {
+        "in": 0,
+        "out": 5969.808,
+        "duration": 5969.808,
+        "category": "",
+        "source": "/home/flock/movies/Suicide_Club_2001_DVDRip_Xvid_LKRG.avi"
+    },
+    {
+        "in": 0,
+        "out": 6808.76,
+        "duration": 6808.76,
+        "category": "",
+        "source": "/home/flock/movies/The_Holy_Mountain_Alexandro_Jodorowsky_1973.mkv"
     },
     {
         "in": 0,
@@ -1044,6 +1429,13 @@
     },
     {
         "in": 0,
+        "out": 7289.282,
+        "duration": 7289.282,
+        "category": "",
+        "source": "/home/flock/movies/Knowing.2009.1080p.BluRay.x264.AC3-ETRG.mp4"
+    },
+    {
+        "in": 0,
         "out": 5643.604,
         "duration": 5643.604,
         "category": "",
@@ -1058,6 +1450,20 @@
     },
     {
         "in": 0,
+        "out": 1245.415,
+        "duration": 1245.415,
+        "category": "",
+        "source": "/home/flock/movies/05.The.Haunted.House.1921.720p.BluRay.FLAC.HDCLUB-Skazhutin.mkv"
+    },
+    {
+        "in": 0,
+        "out": 7149.2,
+        "duration": 7149.2,
+        "category": "",
+        "source": "/home/flock/movies/Howl_s_Moving_Castle_BD_x264_720p_AAC_Sub_B2ABCCD9_.mkv"
+    },
+    {
+        "in": 0,
         "out": 6643.595,
         "duration": 6643.595,
         "category": "",
@@ -1065,10 +1471,24 @@
     },
     {
         "in": 0,
-        "out": 6990.475,
-        "duration": 6990.475,
+        "out": 5785.128,
+        "duration": 5785.128,
         "category": "",
-        "source": "/home/flock/movies/Full.Metal.Jacket.1987.1080p.BluRay.x264-[YTS.AM].mp4"
+        "source": "/home/flock/movies/Pontypool.2008.BRRip.XviD-VLiS.avi"
+    },
+    {
+        "in": 0,
+        "out": 1296.295,
+        "duration": 1296.295,
+        "category": "",
+        "source": "/home/flock/movies/06.Hard.Luck.1921.720p.BluRay.FLAC.HDCLUB-Skazhutin.mkv"
+    },
+    {
+        "in": 0,
+        "out": 5767.428,
+        "duration": 5767.428,
+        "category": "",
+        "source": "/home/flock/movies/Rumble_Fish-1983-720p_BRrip_sujaidr-pimprg-.mkv"
     },
     {
         "in": 0,
@@ -1086,6 +1506,13 @@
     },
     {
         "in": 0,
+        "out": 5185.222,
+        "duration": 5185.222,
+        "category": "",
+        "source": "/home/flock/movies/Tonari_no_Totoro_BD_x264_720p_AAC_Sub.mkv"
+    },
+    {
+        "in": 0,
         "out": 7485.546667,
         "duration": 7485.546667,
         "category": "",
@@ -1093,10 +1520,17 @@
     },
     {
         "in": 0,
-        "out": 5969.808,
-        "duration": 5969.808,
+        "out": 4213.32,
+        "duration": 4213.32,
         "category": "",
-        "source": "/home/flock/movies/Suicide Club 2001 DVDRip Xvid LKRG.avi"
+        "source": "/home/flock/movies/Blood_Tea_And_Red_String.mkv"
+    },
+    {
+        "in": 0,
+        "out": 7119.05,
+        "duration": 7119.05,
+        "category": "",
+        "source": "/home/flock/movies/The.Bad.Batch.2016.720p.BRRip.1GB.MkvCage.mkv"
     },
     {
         "in": 0,
@@ -1107,10 +1541,10 @@
     },
     {
         "in": 0,
-        "out": 6596.323,
-        "duration": 6596.323,
+        "out": 1407.91,
+        "duration": 1407.91,
         "category": "",
-        "source": "/home/flock/movies/Arrebato.1979.DVDRip.x264.burnedSub.mkv"
+        "source": "/home/flock/movies/08.The.Goat.1921.720p.BluRay.FLAC.HDCLUB-Skazhutin.mkv"
     },
     {
         "in": 0,
@@ -1121,6 +1555,20 @@
     },
     {
         "in": 0,
+        "out": 1064.275,
+        "duration": 1064.275,
+        "category": "",
+        "source": "/home/flock/movies/04.Neighbors.1920.720p.BluRay.FLAC.HDCLUB-Skazhutin.mkv"
+    },
+    {
+        "in": 0,
+        "out": 1314.941,
+        "duration": 1314.941,
+        "category": "",
+        "source": "/home/flock/movies/16.The.Electric.House.1922.720p.BluRay.FLAC.HDCLUB-Skazhutin.mkv"
+    },
+    {
+        "in": 0,
         "out": 7596.671667,
         "duration": 7596.671667,
         "category": "",
@@ -1128,10 +1576,10 @@
     },
     {
         "in": 0,
-        "out": 4223.957,
-        "duration": 4223.957,
+        "out": 5812.872,
+        "duration": 5812.872,
         "category": "",
-        "source": "/home/flock/movies/The.Road.Movie.2016.1080p.BluRay.x264-[YTS.AM].mp4"
+        "source": "/home/flock/movies/Dead.Or.Alive.2.Birds.2000.720p.BluRay.x264.AAC-YTS.MX_.mp4"
     },
     {
         "in": 0,
@@ -1139,6 +1587,20 @@
         "duration": 7393.43,
         "category": "",
         "source": "/home/flock/movies/All.That.Jazz.1979.720p.BluRay.x264-HD4U.mkv"
+    },
+    {
+        "in": 0,
+        "out": 7812.459,
+        "duration": 7812.459,
+        "category": "",
+        "source": "/home/flock/movies/Viy.2014.1080p.BRRip.h264.AAC-RARBG.mp4"
+    },
+    {
+        "in": 0,
+        "out": 5530.001,
+        "duration": 5530.001,
+        "category": "",
+        "source": "/home/flock/movies/Repo_Man_1984_720p_BluRay_x264_BONE.mkv"
     },
     {
         "in": 0,
@@ -1156,6 +1618,13 @@
     },
     {
         "in": 0,
+        "out": 1310.105,
+        "duration": 1310.105,
+        "category": "",
+        "source": "/home/flock/movies/14.The.Blacksmith.1922.720p.BluRay.FLAC.HDCLUB-Skazhutin.mkv"
+    },
+    {
+        "in": 0,
         "out": 5638.548333,
         "duration": 5638.548333,
         "category": "",
@@ -1163,10 +1632,31 @@
     },
     {
         "in": 0,
+        "out": 6122.143333,
+        "duration": 6122.143333,
+        "category": "",
+        "source": "/home/flock/movies/American.Psycho.2000.Remastered.1080p.BluRay.X264.AC3.Will1869.mp4"
+    },
+    {
+        "in": 0,
         "out": 6782.984,
         "duration": 6782.984,
         "category": "",
         "source": "/home/flock/movies/High.Life.2019.BRRip.XviD.AC3-EVO.avi"
+    },
+    {
+        "in": 0,
+        "out": 1174.757,
+        "duration": 1174.757,
+        "category": "",
+        "source": "/home/flock/movies/19.The.Love.Nest.1923.720p.BluRay.FLAC.HDCLUB-Skazhutin.mkv"
+    },
+    {
+        "in": 0,
+        "out": 6990.475,
+        "duration": 6990.475,
+        "category": "",
+        "source": "/home/flock/movies/Full.Metal.Jacket.1987.1080p.BluRay.x264-YTS.AM-.mp4"
     },
     {
         "in": 0,
@@ -1184,8 +1674,43 @@
     },
     {
         "in": 0,
-        "out": 6531.178333,
-        "duration": 6531.178333,
+        "out": 5599.957,
+        "duration": 5599.957,
+        "category": "",
+        "source": "/home/flock/movies/Porco_Rosso_1992_BD_x264_1280x720_AAC_Sub.mkv"
+    },
+    {
+        "in": 0,
+        "out": 9335.493,
+        "duration": 9335.493,
+        "category": "",
+        "source": "/home/flock/movies/Boogie_Nights_1997_1080p_BluRay_x264_AAC-Ozlem.mkv"
+    },
+    {
+        "in": 0,
+        "out": 1392.895,
+        "duration": 1392.895,
+        "category": "",
+        "source": "/home/flock/movies/10.The.Boat.1921.720p.BluRay.FLAC.HDCLUB-Skazhutin.mkv"
+    },
+    {
+        "in": 0,
+        "out": 6014.421,
+        "duration": 6014.421,
+        "category": "",
+        "source": "/home/flock/movies/The.Farewell.2019.720p.WEBRip.800MB.x264-GalaxyRG.mkv"
+    },
+    {
+        "in": 0,
+        "out": 6182.686,
+        "duration": 6182.686,
+        "category": "",
+        "source": "/home/flock/movies/Kiki_s_Delivery_Service_BD_x264_720p_AAC_Sub.mkv"
+    },
+    {
+        "in": 0,
+        "out": 6182.686,
+        "duration": 6182.686,
         "category": "",
         "source": "/home/flock/movies/2021/04"
     }

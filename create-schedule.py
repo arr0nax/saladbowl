@@ -22,7 +22,8 @@ def main():
 
 
 	shows = obj['program']
-	seconds_past = -(7 * 60 * 60) # pst
+	seconds_past = -(8 * 60 * 60) # pst
+	# seconds_past = -(7 * 60 * 60) # pst daylight savings
 	start_time = datetime.datetime.now()
 	utc_time = datetime.datetime.utcnow()
 	for show in shows:

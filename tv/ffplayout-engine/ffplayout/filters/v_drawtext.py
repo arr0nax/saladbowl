@@ -34,8 +34,8 @@ def filter(probe):
     clip = os.path.basename(probe.src)
     title_with_ext = clip.split("/")[-1]
     title = '.'.join(title_with_ext.split(".")[:-1]);
-    print(title)
-    
+    print(' ------- title: '+ title)
+
     subs_string = 'subtitles=' 
 
     subs_store = glob(os.path.join('/home/flock/movies/subs/', '**', '*srt'), recursive=True)
@@ -43,25 +43,20 @@ def filter(probe):
     for full_sub_path in subs_store:
         sub_with_ext = full_sub_path.split("/")[-1]
         sub = '.'.join(sub_with_ext.split(".")[:-1]);
-        #print(sub)
+        print(' ------- sub file: ' + sub)
     
         if sub == title:
             print(sub + ' match!!!!! adding subs')
             return f"subtitles={full_sub_path}"
     
-        else:
         
             
-            for idx, sub in enumerate(probe.subs):
-                if sub:
-                    if 'tags' in sub:
-                        if 'language' in sub['tags']:
-            	            #print(sub['tags']['language'])
-                            if sub['tags']['language'] == "eng":
-                                #print('english on track:')
-                                #print(sub["index"])
-                                return "subtitles=/home/flock/movies/" + clip + ":si=" + str(idx)
-                                #print(node['subs'])
+    for idx, sub in enumerate(probe.subs):
+        if sub:
+            if 'tags' in sub:
+                if 'language' in sub['tags']:
+                    if sub['tags']['language'] == "eng":
+                        return "subtitles=/home/flock/movies/" + clip + ":si=" + str(idx)
             
             
     
@@ -74,7 +69,7 @@ def filter(probe):
         font = f":fontfile='{_text.fontfile}'"
 
     #if title:
-    if True:
+    if False:
         print(font)
         return f"drawtext=text='{title}':{_text.style}{font}"
 

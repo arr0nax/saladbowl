@@ -59,7 +59,6 @@ class GetSourceFromPlaylist:
         self.list_date = get_date(True)
 
         self.src = None
-        self.subs = None
 	#clayton
         self.begin = 0
         self.seek = 0
@@ -163,7 +162,7 @@ class GetSourceFromPlaylist:
     def set_filtergraph(self):
         self.filtergraph = build_filtergraph(
             self.duration, self.seek, self.out, self.ad, self.ad_last,
-            self.ad_next, self.probe, self.subs, messenger)
+            self.ad_next, self.probe, messenger)
 
     def check_for_next_playlist(self):
         if not self.next_playlist:
@@ -212,10 +211,6 @@ class GetSourceFromPlaylist:
     def peperation_task(self, index, node):
         # call functions in order to prepare source and filter
         self.src = node["source"]
-        #if 'subs' in node.keys():
-        #    self.subs = node["subs"]
-        #else:
-        #    self.subs = ""
 	
         self.probe.load(self.src)
 

@@ -272,7 +272,7 @@ def custom_filter(probe, type):
     return filters
 
 
-def build_filtergraph(duration, seek, out, ad, ad_last, ad_next, probe, subs, msg):
+def build_filtergraph(duration, seek, out, ad, ad_last, ad_next, probe, msg):
     """
     build final filter graph, with video and audio chain
     """
